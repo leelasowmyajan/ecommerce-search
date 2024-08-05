@@ -1,0 +1,2957 @@
+# qid:0: hp touchpad*1
+# qid:1: ipad*1
+# qid:2: touchpad*1
+# qid:3: lcd tv*1
+# qid:4: ipod touch*1
+# qid:5: star wars*1
+# qid:6: htc flyer*1
+# qid:7: lcd tv*1
+# qid:8: ipod*1
+# qid:9: ipad 2*1
+# qid:10: apple tv*1
+# qid:11: hp tablet*1
+# qid:12: macbook*1
+# qid:13: ps3*1
+# qid:14: iphone 4s*1
+# qid:15: transformers*1
+# qid:16: thor*1
+# qid:17: iphone 4s*1
+# qid:18: kindle fire*1
+# qid:19: mac*1
+# qid:20: ipad*1
+# qid:21: macbook pro*1
+# qid:22: ipad*1
+# qid:23: kindle*1
+# qid:24: beats*1
+# qid:25: lcd tv*1
+# qid:26: imac*1
+# qid:27: hp touch pad*1
+# qid:28: ipad2*1
+# qid:29: ipod touch*1
+# qid:30: roku*1
+# qid:31: kindle*1
+# qid:32: captain america*1
+# qid:33: beats*1
+# qid:34: google tv*1
+# qid:35: playstation 3*1
+# qid:36: bridesmaids*1
+# qid:37: tivo*1
+# qid:38: lil wayne*1
+# qid:39: watch the throne*1
+# qid:40: kindle*1
+# qid:41: thor*1
+# qid:42: captain america*1
+# qid:43: ipod*1
+# qid:44: dead island*1
+# qid:45: ipod nano*1
+# qid:46: roku*1
+# qid:47: lil wayne*1
+# qid:48: beats by dre*1
+# qid:49: nook*1
+# qid:50: just dance 3*1
+# qid:51: slingbox*1
+# qid:52: ipad*1
+# qid:53: battlefield 3*1
+# qid:54: apple*1
+# qid:55: xoom*1
+# qid:56: nook*1
+# qid:57: ico*1
+# qid:58: green lantern*1
+# qid:59: iphone 4*1
+# qid:60: lcd tv*1
+# qid:61: i pad*1
+# qid:62: madden 12*1
+# qid:63: iphone 4s*1
+# qid:64: star wars blu ray*1
+# qid:65: fast five*1
+# qid:66: cable modem*1
+# qid:67: ps3 console*1
+# qid:68: galaxy tab*1
+# qid:69: lion king*1
+# qid:70: playbook*1
+# qid:71: mac mini*1
+# qid:72: lion king*1
+# qid:73: xmen first class*1
+# qid:74: beats by dre*1
+# qid:75: tablet*1
+# qid:76: cable modem*1
+# qid:77: slingbox*1
+# qid:78: batman*1
+# qid:79: beats*1
+# qid:80: projector*1
+# qid:81: dvr*1
+# qid:82: wii*1
+# qid:83: ipad 2*1
+# qid:84: ipad 2*1
+# qid:85: projector*1
+# qid:86: modem*1
+# qid:87: htc flyer*1
+# qid:88: iphone 4s*1
+# qid:89: fast five*1
+# qid:90: transformers 3*1
+# qid:91: droid bionic*1
+# qid:92: toshiba thrive*1
+# qid:93: headphones*1
+# qid:94: asus transformer*1
+# qid:95: virgin mobile*1
+# qid:96: imac*1
+# qid:97: transformers dark of the moon*1
+# qid:98: lcd tv*1
+# qid:99: gps*1
+
+3	qid:0	 # 716829772249	hp touchpad
+3	qid:0	 # 886112432140	hp touchpad
+3	qid:0	 # 821793013776	hp touchpad
+3	qid:0	 # 886111287055	hp touchpad
+3	qid:0	 # 885909457588	hp touchpad
+2	qid:0	 # 635753490879	hp touchpad
+2	qid:0	 # 843404076567	hp touchpad
+2	qid:0	 # 843404073153	hp touchpad
+3	qid:0	 # 610839364305	hp touchpad
+2	qid:0	 # 886111271320	hp touchpad
+2	qid:0	 # 885909472925	hp touchpad
+1	qid:0	 # 635753493559	hp touchpad
+3	qid:0	 # 21331432285	hp touchpad
+2	qid:0	 # 610839379408	hp touchpad
+2	qid:0	 # 885909471812	hp touchpad
+2	qid:0	 # 886111271436	hp touchpad
+1	qid:0	 # 885909472376	hp touchpad
+1	qid:0	 # 847275000003	hp touchpad
+1	qid:0	 # 886111271368	hp touchpad
+2	qid:0	 # 716829782446	hp touchpad
+2	qid:0	 # 886111778287	hp touchpad
+1	qid:0	 # 883974828050	hp touchpad
+1	qid:0	 # 886111271283	hp touchpad
+3	qid:0	 # 885909457595	hp touchpad
+2	qid:0	 # 884483917488	hp touchpad
+1	qid:0	 # 27242800205	hp touchpad
+2	qid:0	 # 843163074682	hp touchpad
+2	qid:0	 # 85896393047	hp touchpad
+2	qid:0	 # 9781400532711	hp touchpad
+3	qid:1	 # 821793013776	ipad
+2	qid:1	 # 635753490879	ipad
+1	qid:1	 # 722868830062	ipad
+1	qid:1	 # 884483917488	ipad
+1	qid:1	 # 886111271283	ipad
+1	qid:1	 # 884962753071	ipad
+1	qid:1	 # 885909457588	ipad
+1	qid:1	 # 716829772249	ipad
+1	qid:1	 # 885909457595	ipad
+1	qid:1	 # 635753493559	ipad
+1	qid:1	 # 885909457618	ipad
+1	qid:1	 # 885909457632	ipad
+1	qid:1	 # 92636260712	ipad
+1	qid:1	 # 843404073153	ipad
+1	qid:1	 # 885909470396	ipad
+0	qid:1	 # 885909471812	ipad
+0	qid:1	 # 885909457601	ipad
+1	qid:1	 # 27242798236	ipad
+0	qid:1	 # 885909393404	ipad
+1	qid:1	 # 610839379408	ipad
+0	qid:1	 # 47532896084	ipad
+0	qid:1	 # 47532896053	ipad
+0	qid:1	 # 886111287055	ipad
+0	qid:1	 # 885909472376	ipad
+0	qid:1	 # 885909457625	ipad
+0	qid:1	 # 885909436705	ipad
+0	qid:1	 # 885909470440	ipad
+0	qid:1	 # 885909472925	ipad
+0	qid:1	 # 796435411725	ipad
+0	qid:1	 # 885909435265	ipad
+3	qid:2	 # 12569688896	touchpad
+5	qid:2	 # 886111287055	touchpad
+3	qid:2	 # 886111271283	touchpad
+3	qid:2	 # 40094532056	touchpad
+3	qid:2	 # 635753493559	touchpad
+3	qid:2	 # 97855078582	touchpad
+3	qid:2	 # 886372000219	touchpad
+2	qid:2	 # 635753490879	touchpad
+2	qid:2	 # 610839364305	touchpad
+2	qid:2	 # 885909457588	touchpad
+3	qid:2	 # 885909472376	touchpad
+3	qid:2	 # 886111271436	touchpad
+2	qid:2	 # 635753493573	touchpad
+2	qid:2	 # 847275000003	touchpad
+3	qid:2	 # 843404076567	touchpad
+2	qid:2	 # 715262063648	touchpad
+2	qid:2	 # 716829782446	touchpad
+2	qid:2	 # 610839379408	touchpad
+2	qid:2	 # 886111778287	touchpad
+3	qid:2	 # 22265004395	touchpad
+1	qid:2	 # 884116069973	touchpad
+3	qid:2	 # 885909457595	touchpad
+1	qid:2	 # 885909472925	touchpad
+1	qid:2	 # 716829772249	touchpad
+2	qid:2	 # 886111271320	touchpad
+2	qid:2	 # 886111271368	touchpad
+2	qid:2	 # 85896393047	touchpad
+1	qid:2	 # 886541012470	touchpad
+2	qid:2	 # 4049571050706	touchpad
+3	qid:3	 # 22265004258	lcd tv
+1	qid:3	 # 22265004289	lcd tv
+0	qid:3	 # 729507813059	lcd tv
+1	qid:3	 # 883393003458	lcd tv
+0	qid:3	 # 36725234789	lcd tv
+0	qid:3	 # 882777064009	lcd tv
+0	qid:3	 # 884483335329	lcd tv
+0	qid:3	 # 36725236271	lcd tv
+1	qid:3	 # 97278016000	lcd tv
+0	qid:3	 # 812491010334	lcd tv
+0	qid:3	 # 74000373105	lcd tv
+0	qid:3	 # 827912068474	lcd tv
+0	qid:3	 # 605342041546	lcd tv
+0	qid:3	 # 827912072969	lcd tv
+0	qid:3	 # 812491010310	lcd tv
+0	qid:3	 # 696211503197	lcd tv
+0	qid:3	 # 885170042704	lcd tv
+0	qid:3	 # 27242817197	lcd tv
+0	qid:3	 # 882777064207	lcd tv
+0	qid:3	 # 885170042667	lcd tv
+0	qid:3	 # 13803112610	lcd tv
+0	qid:3	 # 827912068467	lcd tv
+0	qid:3	 # 729507810218	lcd tv
+0	qid:3	 # 17229133204	lcd tv
+0	qid:3	 # 719192579996	lcd tv
+0	qid:3	 # 36725235564	lcd tv
+0	qid:3	 # 22265004302	lcd tv
+0	qid:3	 # 723755834491	lcd tv
+3	qid:4	 # 878615021747	ipod touch
+3	qid:4	 # 885909497232	ipod touch
+2	qid:4	 # 885909394845	ipod touch
+2	qid:4	 # 885909395095	ipod touch
+1	qid:4	 # 689076070218	ipod touch
+2	qid:4	 # 815166010004	ipod touch
+2	qid:4	 # 885909497256	ipod touch
+1	qid:4	 # 884720011733	ipod touch
+1	qid:4	 # 600603137204	ipod touch
+2	qid:4	 # 685387311279	ipod touch
+1	qid:4	 # 885909395347	ipod touch
+1	qid:4	 # 885909341320	ipod touch
+1	qid:4	 # 685387312092	ipod touch
+1	qid:4	 # 685387332410	ipod touch
+1	qid:4	 # 685387311620	ipod touch
+1	qid:4	 # 21331115096	ipod touch
+1	qid:4	 # 884720011757	ipod touch
+1	qid:4	 # 685387311019	ipod touch
+1	qid:4	 # 850460002881	ipod touch
+1	qid:4	 # 885805000154	ipod touch
+1	qid:4	 # 815741010443	ipod touch
+1	qid:4	 # 885909301867	ipod touch
+1	qid:4	 # 885909497249	ipod touch
+1	qid:4	 # 685387311811	ipod touch
+1	qid:4	 # 815166010028	ipod touch
+1	qid:4	 # 899794007247	ipod touch
+1	qid:4	 # 886112432140	ipod touch
+1	qid:4	 # 685387345038	ipod touch
+0	qid:4	 # 660543004868	ipod touch
+1	qid:4	 # 886112201586	ipod touch
+3	qid:5	 # 23272342630	star wars
+3	qid:5	 # 886973561621	star wars
+3	qid:5	 # 24543742098	star wars
+4	qid:5	 # 24543742180	star wars
+3	qid:5	 # 14633169546	star wars
+3	qid:5	 # 23272342654	star wars
+3	qid:5	 # 886971404722	star wars
+3	qid:5	 # 23272341381	star wars
+3	qid:5	 # 708431390614	star wars
+2	qid:5	 # 24543263739	star wars
+2	qid:5	 # 24543781875	star wars
+2	qid:5	 # 30206742121	star wars
+2	qid:5	 # 24543560067	star wars
+2	qid:5	 # 885370332889	star wars
+2	qid:5	 # 400032015667	star wars
+1	qid:5	 # 24543707103	star wars
+2	qid:5	 # 24543559856	star wars
+2	qid:5	 # 883929154012	star wars
+2	qid:5	 # 14633169522	star wars
+2	qid:5	 # 886111287055	star wars
+2	qid:5	 # 23272332389	star wars
+2	qid:5	 # 24543742074	star wars
+2	qid:5	 # 883929106172	star wars
+1	qid:5	 # 24543023920	star wars
+2	qid:5	 # 883929094561	star wars
+2	qid:5	 # 883929200863	star wars
+1	qid:5	 # 884116069973	star wars
+1	qid:5	 # 883929136025	star wars
+1	qid:5	 # 827969295021	star wars
+3	qid:5	 # 24543203094	star wars
+3	qid:6	 # 885909457588	htc flyer
+4	qid:6	 # 886111287055	htc flyer
+3	qid:6	 # 884962753071	htc flyer
+3	qid:6	 # 821793013776	htc flyer
+2	qid:6	 # 723755000018	htc flyer
+2	qid:6	 # 821793012786	htc flyer
+1	qid:6	 # 645743954656	htc flyer
+2	qid:6	 # 886111684472	htc flyer
+2	qid:6	 # 718037751962	htc flyer
+1	qid:6	 # 716829772249	htc flyer
+1	qid:6	 # 635753493559	htc flyer
+2	qid:6	 # 635753486988	htc flyer
+1	qid:6	 # 847275000065	htc flyer
+2	qid:6	 # 27242827509	htc flyer
+1	qid:6	 # 27242754843	htc flyer
+1	qid:6	 # 36725734234	htc flyer
+1	qid:6	 # 843404074594	htc flyer
+1	qid:6	 # 85896393047	htc flyer
+1	qid:6	 # 723755922327	htc flyer
+1	qid:6	 # 763649031261	htc flyer
+0	qid:6	 # 814916014385	htc flyer
+1	qid:6	 # 635753490879	htc flyer
+1	qid:6	 # 610839364305	htc flyer
+1	qid:6	 # 843967071764	htc flyer
+1	qid:6	 # 635753493566	htc flyer
+1	qid:6	 # 883974814251	htc flyer
+1	qid:6	 # 884116033264	htc flyer
+1	qid:6	 # 27242830592	htc flyer
+1	qid:6	 # 635753492590	htc flyer
+3	qid:7	 # 22265004258	lcd tv
+1	qid:7	 # 22265004289	lcd tv
+0	qid:7	 # 729507813059	lcd tv
+1	qid:7	 # 883393003458	lcd tv
+0	qid:7	 # 36725234789	lcd tv
+0	qid:7	 # 882777064009	lcd tv
+0	qid:7	 # 884483335329	lcd tv
+0	qid:7	 # 36725236271	lcd tv
+1	qid:7	 # 97278016000	lcd tv
+0	qid:7	 # 812491010334	lcd tv
+0	qid:7	 # 74000373105	lcd tv
+0	qid:7	 # 827912068474	lcd tv
+0	qid:7	 # 605342041546	lcd tv
+0	qid:7	 # 827912072969	lcd tv
+0	qid:7	 # 812491010310	lcd tv
+0	qid:7	 # 696211503197	lcd tv
+0	qid:7	 # 885170042704	lcd tv
+0	qid:7	 # 27242817197	lcd tv
+0	qid:7	 # 882777064207	lcd tv
+0	qid:7	 # 885170042667	lcd tv
+0	qid:7	 # 13803112610	lcd tv
+0	qid:7	 # 827912068467	lcd tv
+0	qid:7	 # 729507810218	lcd tv
+0	qid:7	 # 17229133204	lcd tv
+0	qid:7	 # 719192579996	lcd tv
+0	qid:7	 # 36725235564	lcd tv
+0	qid:7	 # 22265004302	lcd tv
+0	qid:7	 # 723755834491	lcd tv
+4	qid:8	 # 885909424184	ipod
+2	qid:8	 # 885909394845	ipod
+2	qid:8	 # 884938116084	ipod
+2	qid:8	 # 19048191786	ipod
+1	qid:8	 # 885909497232	ipod
+2	qid:8	 # 885909423408	ipod
+1	qid:8	 # 619659070854	ipod
+1	qid:8	 # 799366489481	ipod
+1	qid:8	 # 722868787335	ipod
+2	qid:8	 # 799366153153	ipod
+1	qid:8	 # 884720011757	ipod
+1	qid:8	 # 885909395095	ipod
+1	qid:8	 # 21331115096	ipod
+1	qid:8	 # 885909395347	ipod
+1	qid:8	 # 885909412051	ipod
+1	qid:8	 # 21331704313	ipod
+1	qid:8	 # 46838043963	ipod
+1	qid:8	 # 896431001309	ipod
+1	qid:8	 # 885909423538	ipod
+1	qid:8	 # 885909423927	ipod
+1	qid:8	 # 885909301867	ipod
+1	qid:8	 # 18111929196	ipod
+1	qid:8	 # 18111928090	ipod
+1	qid:8	 # 50644516641	ipod
+1	qid:8	 # 885909412006	ipod
+1	qid:8	 # 21331650184	ipod
+1	qid:8	 # 885909341320	ipod
+1	qid:8	 # 885909497249	ipod
+1	qid:8	 # 685387312092	ipod
+1	qid:8	 # 885909409945	ipod
+3	qid:9	 # 635753493559	ipad 2
+2	qid:9	 # 885909471201	ipad 2
+1	qid:9	 # 685387352913	ipad 2
+2	qid:9	 # 885909472376	ipad 2
+2	qid:9	 # 885909470396	ipad 2
+1	qid:9	 # 92636260705	ipad 2
+1	qid:9	 # 885909471546	ipad 2
+1	qid:9	 # 885909457588	ipad 2
+1	qid:9	 # 21331374011	ipad 2
+1	qid:9	 # 92636260712	ipad 2
+1	qid:9	 # 886111287055	ipad 2
+1	qid:9	 # 722868830062	ipad 2
+1	qid:9	 # 885909457595	ipad 2
+1	qid:9	 # 650450115955	ipad 2
+1	qid:9	 # 885909457625	ipad 2
+1	qid:9	 # 885909457601	ipad 2
+1	qid:9	 # 885909435265	ipad 2
+1	qid:9	 # 885909471812	ipad 2
+1	qid:9	 # 885909470440	ipad 2
+1	qid:9	 # 885909472925	ipad 2
+1	qid:9	 # 610839379408	ipad 2
+1	qid:9	 # 33991032903	ipad 2
+0	qid:9	 # 885909457632	ipad 2
+0	qid:9	 # 885909393404	ipad 2
+0	qid:9	 # 843404073153	ipad 2
+1	qid:9	 # 885909457618	ipad 2
+1	qid:9	 # 660543008811	ipad 2
+0	qid:9	 # 885909470860	ipad 2
+0	qid:9	 # 885909436705	ipad 2
+0	qid:9	 # 885909470402	ipad 2
+3	qid:10	 # 4016368300450	apple tv
+3	qid:10	 # 885909395095	apple tv
+3	qid:10	 # 97855070906	apple tv
+3	qid:10	 # 829610880068	apple tv
+3	qid:10	 # 93624956488	apple tv
+3	qid:10	 # 400010747788	apple tv
+3	qid:10	 # 885909410521	apple tv
+3	qid:10	 # 13132146195	apple tv
+3	qid:10	 # 27242807303	apple tv
+3	qid:10	 # 631008069197	apple tv
+2	qid:10	 # 885805000024	apple tv
+3	qid:10	 # 85387303432	apple tv
+2	qid:10	 # 885909394845	apple tv
+2	qid:10	 # 13132146492	apple tv
+2	qid:10	 # 12569593268	apple tv
+1	qid:10	 # 885909371860	apple tv
+1	qid:10	 # 10343873339	apple tv
+1	qid:10	 # 27242800205	apple tv
+1	qid:10	 # 92592086265	apple tv
+2	qid:10	 # 84691165071	apple tv
+2	qid:10	 # 602527791494	apple tv
+1	qid:10	 # 71701057068	apple tv
+2	qid:10	 # 36725234864	apple tv
+1	qid:10	 # 36725234703	apple tv
+1	qid:10	 # 27242828919	apple tv
+1	qid:10	 # 24543742180	apple tv
+1	qid:10	 # 21200507038	apple tv
+2	qid:10	 # 85391156949	apple tv
+3	qid:11	 # 886111962129	hp tablet
+3	qid:11	 # 635753490879	hp tablet
+3	qid:11	 # 886111249411	hp tablet
+3	qid:11	 # 886111258505	hp tablet
+3	qid:11	 # 886111741182	hp tablet
+3	qid:11	 # 885909457588	hp tablet
+2	qid:11	 # 610839379408	hp tablet
+2	qid:11	 # 885909472376	hp tablet
+2	qid:11	 # 843967071764	hp tablet
+2	qid:11	 # 886112278830	hp tablet
+3	qid:11	 # 885909471812	hp tablet
+2	qid:11	 # 716829772249	hp tablet
+2	qid:11	 # 886111287055	hp tablet
+2	qid:11	 # 637668020547	hp tablet
+2	qid:11	 # 884962753071	hp tablet
+2	qid:11	 # 635753486988	hp tablet
+2	qid:11	 # 886111778287	hp tablet
+2	qid:11	 # 885909457595	hp tablet
+2	qid:11	 # 821793013776	hp tablet
+2	qid:11	 # 635753493559	hp tablet
+2	qid:11	 # 886112115319	hp tablet
+2	qid:11	 # 886111271283	hp tablet
+2	qid:11	 # 843404076567	hp tablet
+2	qid:11	 # 847275000003	hp tablet
+2	qid:11	 # 886111783915	hp tablet
+1	qid:11	 # 886111271368	hp tablet
+1	qid:11	 # 886111946297	hp tablet
+2	qid:11	 # 884962870259	hp tablet
+2	qid:11	 # 886112065942	hp tablet
+4	qid:12	 # 885909464036	macbook
+3	qid:12	 # 885909439577	macbook
+3	qid:12	 # 885909436705	macbook
+3	qid:12	 # 885909437023	macbook
+3	qid:12	 # 885909432257	macbook
+3	qid:12	 # 885909398577	macbook
+3	qid:12	 # 885909463626	macbook
+3	qid:12	 # 885909464043	macbook
+3	qid:12	 # 885909436002	macbook
+2	qid:12	 # 885909431618	macbook
+3	qid:12	 # 885909398584	macbook
+2	qid:12	 # 885909377794	macbook
+2	qid:12	 # 885909454396	macbook
+2	qid:12	 # 650450759814	macbook
+2	qid:12	 # 885909455386	macbook
+2	qid:12	 # 885909282883	macbook
+2	qid:12	 # 875912016353	macbook
+2	qid:12	 # 885909400508	macbook
+2	qid:12	 # 875912016841	macbook
+2	qid:12	 # 875912016827	macbook
+1	qid:12	 # 99802970796	macbook
+1	qid:12	 # 650450104072	macbook
+1	qid:12	 # 4712052310841	macbook
+2	qid:12	 # 883974850921	macbook
+1	qid:12	 # 730791510012	macbook
+0	qid:12	 # 885370222548	macbook
+1	qid:12	 # 650450114309	macbook
+1	qid:12	 # 885909531653	macbook
+1	qid:12	 # 885909533589	macbook
+1	qid:12	 # 94922876065	macbook
+4	qid:13	 # 97855059161	ps3
+3	qid:13	 # 27242813908	ps3
+3	qid:13	 # 47875843660	ps3
+3	qid:13	 # 731855021802	ps3
+3	qid:13	 # 663296416087	ps3
+2	qid:13	 # 711719842309	ps3
+3	qid:13	 # 21165105966	ps3
+2	qid:13	 # 711719836704	ps3
+2	qid:13	 # 4033653150033	ps3
+3	qid:13	 # 883929161881	ps3
+2	qid:13	 # 14633193565	ps3
+2	qid:13	 # 884481000014	ps3
+2	qid:13	 # 14633194357	ps3
+2	qid:13	 # 711719807803	ps3
+2	qid:13	 # 14633196467	ps3
+2	qid:13	 # 884481000120	ps3
+2	qid:13	 # 711719984382	ps3
+2	qid:13	 # 895678002490	ps3
+1	qid:13	 # 711719826224	ps3
+2	qid:13	 # 14633195927	ps3
+2	qid:13	 # 711719842408	ps3
+2	qid:13	 # 718037753027	ps3
+2	qid:13	 # 711719990048	ps3
+1	qid:13	 # 711719831105	ps3
+2	qid:13	 # 47875842052	ps3
+1	qid:13	 # 718037753171	ps3
+2	qid:13	 # 14633196337	ps3
+2	qid:13	 # 710425470561	ps3
+2	qid:13	 # 711719804604	ps3
+2	qid:13	 # 47875840041	ps3
+3	qid:14	 # 885909528936	iphone 4s
+3	qid:14	 # 885909528905	iphone 4s
+2	qid:14	 # 844702007192	iphone 4s
+2	qid:14	 # 885909538096	iphone 4s
+1	qid:14	 # 885909528851	iphone 4s
+1	qid:14	 # 885909459841	iphone 4s
+1	qid:14	 # 885909538065	iphone 4s
+1	qid:14	 # 885909528950	iphone 4s
+1	qid:14	 # 844702007178	iphone 4s
+1	qid:14	 # 885909459865	iphone 4s
+1	qid:14	 # 885909528943	iphone 4s
+1	qid:14	 # 885909394494	iphone 4s
+1	qid:14	 # 885909528929	iphone 4s
+1	qid:14	 # 885909538041	iphone 4s
+1	qid:14	 # 816050010292	iphone 4s
+1	qid:14	 # 885909538058	iphone 4s
+1	qid:14	 # 885909528875	iphone 4s
+1	qid:14	 # 885909343874	iphone 4s
+1	qid:14	 # 885909528912	iphone 4s
+1	qid:14	 # 635753493481	iphone 4s
+0	qid:14	 # 811275015237	iphone 4s
+0	qid:14	 # 885909538034	iphone 4s
+0	qid:14	 # 885909538027	iphone 4s
+0	qid:14	 # 885909459858	iphone 4s
+0	qid:14	 # 885909459834	iphone 4s
+0	qid:14	 # 816050010278	iphone 4s
+0	qid:14	 # 816050010230	iphone 4s
+0	qid:14	 # 816050010186	iphone 4s
+0	qid:14	 # 660543009689	iphone 4s
+0	qid:14	 # 628905006271	iphone 4s
+3	qid:15	 # 97361452548	transformers
+3	qid:15	 # 93624976677	transformers
+3	qid:15	 # 47875839069	transformers
+3	qid:15	 # 97361312422	transformers
+4	qid:15	 # 826663126044	transformers
+3	qid:15	 # 97360810042	transformers
+2	qid:15	 # 879862003531	transformers
+3	qid:15	 # 47875841406	transformers
+2	qid:15	 # 879862003500	transformers
+2	qid:15	 # 25192107191	transformers
+2	qid:15	 # 879862003494	transformers
+2	qid:15	 # 47875842328	transformers
+2	qid:15	 # 47875841369	transformers
+2	qid:15	 # 97363455349	transformers
+2	qid:15	 # 32429063861	transformers
+2	qid:15	 # 47875841420	transformers
+2	qid:15	 # 786936817218	transformers
+2	qid:15	 # 826663125368	transformers
+2	qid:15	 # 708056579746	transformers
+2	qid:15	 # 97360716641	transformers
+1	qid:15	 # 97363532149	transformers
+2	qid:15	 # 97361459844	transformers
+2	qid:15	 # 93624995012	transformers
+1	qid:15	 # 93624956037	transformers
+1	qid:15	 # 97363560449	transformers
+2	qid:15	 # 47875842335	transformers
+2	qid:15	 # 400173151118	transformers
+1	qid:15	 # 97360722345	transformers
+1	qid:15	 # 93624974918	transformers
+1	qid:15	 # 25192119248	transformers
+7	qid:16	 # 97361455143	thor
+3	qid:16	 # 97361439648	thor
+3	qid:16	 # 97361455044	thor
+3	qid:16	 # 13132310190	thor
+2	qid:16	 # 10086650457	thor
+1	qid:16	 # 10086670387	thor
+2	qid:16	 # 24543669197	thor
+1	qid:16	 # 10086690491	thor
+1	qid:16	 # 24543750949	thor
+1	qid:16	 # 786936817218	thor
+2	qid:16	 # 884116069973	thor
+2	qid:16	 # 50087240837	thor
+1	qid:16	 # 18208254729	thor
+2	qid:16	 # 25192107214	thor
+1	qid:16	 # 883974682928	thor
+2	qid:16	 # 25192033292	thor
+2	qid:16	 # 24543750871	thor
+1	qid:16	 # 31398135722	thor
+1	qid:16	 # 8888346845	thor
+1	qid:16	 # 883974814251	thor
+1	qid:16	 # 24543669289	thor
+1	qid:16	 # 13132309491	thor
+1	qid:16	 # 24543777380	thor
+1	qid:16	 # 27242808652	thor
+1	qid:16	 # 27242809369	thor
+0	qid:16	 # 27616877277	thor
+0	qid:16	 # 36725235205	thor
+2	qid:16	 # 36725235564	thor
+1	qid:16	 # 24543742180	thor
+1	qid:16	 # 14381724950	thor
+3	qid:17	 # 885909528936	iphone 4s
+3	qid:17	 # 885909528905	iphone 4s
+2	qid:17	 # 844702007192	iphone 4s
+2	qid:17	 # 885909538096	iphone 4s
+1	qid:17	 # 885909528851	iphone 4s
+1	qid:17	 # 885909459841	iphone 4s
+1	qid:17	 # 885909538065	iphone 4s
+1	qid:17	 # 885909528950	iphone 4s
+1	qid:17	 # 844702007178	iphone 4s
+1	qid:17	 # 885909459865	iphone 4s
+1	qid:17	 # 885909528943	iphone 4s
+1	qid:17	 # 885909394494	iphone 4s
+1	qid:17	 # 885909528929	iphone 4s
+1	qid:17	 # 885909538041	iphone 4s
+1	qid:17	 # 816050010292	iphone 4s
+1	qid:17	 # 885909538058	iphone 4s
+1	qid:17	 # 885909528875	iphone 4s
+1	qid:17	 # 885909343874	iphone 4s
+1	qid:17	 # 885909528912	iphone 4s
+1	qid:17	 # 635753493481	iphone 4s
+0	qid:17	 # 811275015237	iphone 4s
+0	qid:17	 # 885909538034	iphone 4s
+0	qid:17	 # 885909538027	iphone 4s
+0	qid:17	 # 885909459858	iphone 4s
+0	qid:17	 # 885909459834	iphone 4s
+0	qid:17	 # 816050010278	iphone 4s
+0	qid:17	 # 816050010230	iphone 4s
+0	qid:17	 # 816050010186	iphone 4s
+0	qid:17	 # 660543009689	iphone 4s
+0	qid:17	 # 628905006271	iphone 4s
+3	qid:18	 # 814916014606	kindle fire
+6	qid:18	 # 814916014385	kindle fire
+3	qid:18	 # 885909457588	kindle fire
+3	qid:18	 # 886111287055	kindle fire
+3	qid:18	 # 13803136340	kindle fire
+2	qid:18	 # 814916010233	kindle fire
+3	qid:18	 # 843967071764	kindle fire
+3	qid:18	 # 814916014361	kindle fire
+2	qid:18	 # 9781400532650	kindle fire
+3	qid:18	 # 814916014590	kindle fire
+3	qid:18	 # 884116069478	kindle fire
+2	qid:18	 # 843404073153	kindle fire
+3	qid:18	 # 886541253385	kindle fire
+2	qid:18	 # 635753495362	kindle fire
+3	qid:18	 # 886112432140	kindle fire
+3	qid:18	 # 27242809369	kindle fire
+1	qid:18	 # 821793013776	kindle fire
+2	qid:18	 # 716829782446	kindle fire
+1	qid:18	 # 635753493573	kindle fire
+2	qid:18	 # 85391156925	kindle fire
+2	qid:18	 # 27242813908	kindle fire
+1	qid:18	 # 711868000018	kindle fire
+1	qid:18	 # 723755000605	kindle fire
+1	qid:18	 # 886112201586	kindle fire
+2	qid:18	 # 723755000018	kindle fire
+2	qid:18	 # 885909457618	kindle fire
+1	qid:18	 # 885909436705	kindle fire
+1	qid:18	 # 92636257521	kindle fire
+2	qid:18	 # 814916011872	kindle fire
+1	qid:18	 # 843404077427	kindle fire
+3	qid:19	 # 885909437023	mac
+4	qid:19	 # 20626723053	mac
+3	qid:19	 # 885909463626	mac
+3	qid:19	 # 31398136897	mac
+3	qid:19	 # 885909445721	mac
+2	qid:19	 # 885909436705	mac
+3	qid:19	 # 885909436002	mac
+3	qid:19	 # 765010104338	mac
+2	qid:19	 # 885909398577	mac
+3	qid:19	 # 885909446070	mac
+2	qid:19	 # 841872109046	mac
+2	qid:19	 # 885909431618	mac
+2	qid:19	 # 97363392446	mac
+2	qid:19	 # 885909455386	mac
+2	qid:19	 # 885909377794	mac
+2	qid:19	 # 885909282883	mac
+2	qid:19	 # 885909398584	mac
+2	qid:19	 # 733199437523	mac
+2	qid:19	 # 883919198439	mac
+2	qid:19	 # 20626728485	mac
+2	qid:19	 # 885909446421	mac
+2	qid:19	 # 885909464043	mac
+2	qid:19	 # 885370222548	mac
+2	qid:19	 # 885909432257	mac
+2	qid:19	 # 24543657880	mac
+2	qid:19	 # 37000209690	mac
+1	qid:19	 # 733199437950	mac
+1	qid:19	 # 885909400508	mac
+2	qid:19	 # 81227377526	mac
+2	qid:19	 # 885909464036	mac
+3	qid:20	 # 821793013776	ipad
+2	qid:20	 # 635753490879	ipad
+1	qid:20	 # 722868830062	ipad
+1	qid:20	 # 884483917488	ipad
+1	qid:20	 # 886111271283	ipad
+1	qid:20	 # 884962753071	ipad
+1	qid:20	 # 885909457588	ipad
+1	qid:20	 # 716829772249	ipad
+1	qid:20	 # 885909457595	ipad
+1	qid:20	 # 635753493559	ipad
+1	qid:20	 # 885909457618	ipad
+1	qid:20	 # 885909457632	ipad
+1	qid:20	 # 92636260712	ipad
+1	qid:20	 # 843404073153	ipad
+1	qid:20	 # 885909470396	ipad
+0	qid:20	 # 885909471812	ipad
+0	qid:20	 # 885909457601	ipad
+1	qid:20	 # 27242798236	ipad
+0	qid:20	 # 885909393404	ipad
+1	qid:20	 # 610839379408	ipad
+0	qid:20	 # 47532896084	ipad
+0	qid:20	 # 47532896053	ipad
+0	qid:20	 # 886111287055	ipad
+0	qid:20	 # 885909472376	ipad
+0	qid:20	 # 885909457625	ipad
+0	qid:20	 # 885909436705	ipad
+0	qid:20	 # 885909470440	ipad
+0	qid:20	 # 885909472925	ipad
+0	qid:20	 # 796435411725	ipad
+0	qid:20	 # 885909435265	ipad
+3	qid:21	 # 650450102016	macbook pro
+3	qid:21	 # 400027951918	macbook pro
+3	qid:21	 # 875912016827	macbook pro
+4	qid:21	 # 885909432257	macbook pro
+4	qid:21	 # 885909437023	macbook pro
+3	qid:21	 # 885909431618	macbook pro
+3	qid:21	 # 885909436705	macbook pro
+3	qid:21	 # 885909436002	macbook pro
+2	qid:21	 # 650450108063	macbook pro
+2	qid:21	 # 885909531653	macbook pro
+3	qid:21	 # 875912016841	macbook pro
+2	qid:21	 # 875912016353	macbook pro
+3	qid:21	 # 885909533503	macbook pro
+2	qid:21	 # 650450759913	macbook pro
+2	qid:21	 # 885909106714	macbook pro
+2	qid:21	 # 27242827509	macbook pro
+2	qid:21	 # 885909262274	macbook pro
+2	qid:21	 # 94922876065	macbook pro
+1	qid:21	 # 885909377794	macbook pro
+1	qid:21	 # 650450114309	macbook pro
+2	qid:21	 # 885909533589	macbook pro
+1	qid:21	 # 99802970796	macbook pro
+1	qid:21	 # 885909454396	macbook pro
+2	qid:21	 # 885370222548	macbook pro
+1	qid:21	 # 886112432140	macbook pro
+1	qid:21	 # 27242834538	macbook pro
+1	qid:21	 # 730791510012	macbook pro
+2	qid:21	 # 722868817360	macbook pro
+1	qid:21	 # 650450101606	macbook pro
+1	qid:21	 # 94922296931	macbook pro
+3	qid:22	 # 821793013776	ipad
+2	qid:22	 # 635753490879	ipad
+1	qid:22	 # 722868830062	ipad
+1	qid:22	 # 884483917488	ipad
+1	qid:22	 # 886111271283	ipad
+1	qid:22	 # 884962753071	ipad
+1	qid:22	 # 885909457588	ipad
+1	qid:22	 # 716829772249	ipad
+1	qid:22	 # 885909457595	ipad
+1	qid:22	 # 635753493559	ipad
+1	qid:22	 # 885909457618	ipad
+1	qid:22	 # 885909457632	ipad
+1	qid:22	 # 92636260712	ipad
+1	qid:22	 # 843404073153	ipad
+1	qid:22	 # 885909470396	ipad
+0	qid:22	 # 885909471812	ipad
+0	qid:22	 # 885909457601	ipad
+1	qid:22	 # 27242798236	ipad
+0	qid:22	 # 885909393404	ipad
+1	qid:22	 # 610839379408	ipad
+0	qid:22	 # 47532896084	ipad
+0	qid:22	 # 47532896053	ipad
+0	qid:22	 # 886111287055	ipad
+0	qid:22	 # 885909472376	ipad
+0	qid:22	 # 885909457625	ipad
+0	qid:22	 # 885909436705	ipad
+0	qid:22	 # 885909470440	ipad
+0	qid:22	 # 885909472925	ipad
+0	qid:22	 # 796435411725	ipad
+0	qid:22	 # 885909435265	ipad
+3	qid:23	 # 9781400532650	kindle
+3	qid:23	 # 813580018514	kindle
+2	qid:23	 # 814916010219	kindle
+1	qid:23	 # 814916014590	kindle
+1	qid:23	 # 814916010240	kindle
+1	qid:23	 # 814916014385	kindle
+1	qid:23	 # 814916011896	kindle
+1	qid:23	 # 813580017906	kindle
+1	qid:23	 # 814916014361	kindle
+1	qid:23	 # 813580015261	kindle
+1	qid:23	 # 814916011872	kindle
+1	qid:23	 # 814916010288	kindle
+1	qid:23	 # 814916010233	kindle
+1	qid:23	 # 843404077182	kindle
+1	qid:23	 # 9781400532711	kindle
+1	qid:23	 # 886111287055	kindle
+1	qid:23	 # 92636257521	kindle
+1	qid:23	 # 814916010202	kindle
+0	qid:23	 # 813580015247	kindle
+1	qid:23	 # 813580017579	kindle
+0	qid:23	 # 813580018491	kindle
+1	qid:23	 # 814916014606	kindle
+1	qid:23	 # 813580015797	kindle
+1	qid:23	 # 813580015155	kindle
+1	qid:23	 # 813580015223	kindle
+0	qid:23	 # 813580015636	kindle
+0	qid:23	 # 813580018361	kindle
+0	qid:23	 # 813580015933	kindle
+0	qid:23	 # 817866000651	kindle
+0	qid:23	 # 885909457588	kindle
+3	qid:24	 # 848447000159	beats
+2	qid:24	 # 50644561337	beats
+2	qid:24	 # 848447000265	beats
+2	qid:24	 # 848447000050	beats
+1	qid:24	 # 50644614705	beats
+1	qid:24	 # 848447000074	beats
+1	qid:24	 # 848447000258	beats
+1	qid:24	 # 848447000142	beats
+1	qid:24	 # 848447000296	beats
+1	qid:24	 # 50644600470	beats
+1	qid:24	 # 848447000173	beats
+1	qid:24	 # 50644579523	beats
+1	qid:24	 # 50644577055	beats
+1	qid:24	 # 723755894396	beats
+1	qid:24	 # 848447000135	beats
+1	qid:24	 # 848447000036	beats
+1	qid:24	 # 81227761721	beats
+1	qid:24	 # 848447000043	beats
+1	qid:24	 # 50644556647	beats
+1	qid:24	 # 848447000180	beats
+1	qid:24	 # 848447000081	beats
+0	qid:24	 # 848447000029	beats
+0	qid:24	 # 50644587771	beats
+1	qid:24	 # 50644577048	beats
+0	qid:24	 # 50644632167	beats
+0	qid:24	 # 848447000005	beats
+0	qid:24	 # 615104140707	beats
+0	qid:24	 # 848447000999	beats
+0	qid:24	 # 854381003002	beats
+3	qid:25	 # 22265004258	lcd tv
+1	qid:25	 # 22265004289	lcd tv
+0	qid:25	 # 729507813059	lcd tv
+1	qid:25	 # 883393003458	lcd tv
+0	qid:25	 # 36725234789	lcd tv
+0	qid:25	 # 882777064009	lcd tv
+0	qid:25	 # 884483335329	lcd tv
+0	qid:25	 # 36725236271	lcd tv
+1	qid:25	 # 97278016000	lcd tv
+0	qid:25	 # 812491010334	lcd tv
+0	qid:25	 # 74000373105	lcd tv
+0	qid:25	 # 827912068474	lcd tv
+0	qid:25	 # 605342041546	lcd tv
+0	qid:25	 # 827912072969	lcd tv
+0	qid:25	 # 812491010310	lcd tv
+0	qid:25	 # 696211503197	lcd tv
+0	qid:25	 # 885170042704	lcd tv
+0	qid:25	 # 27242817197	lcd tv
+0	qid:25	 # 882777064207	lcd tv
+0	qid:25	 # 885170042667	lcd tv
+0	qid:25	 # 13803112610	lcd tv
+0	qid:25	 # 827912068467	lcd tv
+0	qid:25	 # 729507810218	lcd tv
+0	qid:25	 # 17229133204	lcd tv
+0	qid:25	 # 719192579996	lcd tv
+0	qid:25	 # 36725235564	lcd tv
+0	qid:25	 # 22265004302	lcd tv
+0	qid:25	 # 723755834491	lcd tv
+4	qid:26	 # 885909446421	imac
+2	qid:26	 # 885909400508	imac
+2	qid:26	 # 885909446070	imac
+2	qid:26	 # 604388729029	imac
+2	qid:26	 # 36725515949	imac
+2	qid:26	 # 885909445721	imac
+2	qid:26	 # 885909455621	imac
+1	qid:26	 # 885909455386	imac
+2	qid:26	 # 27242808386	imac
+2	qid:26	 # 602527681436	imac
+1	qid:26	 # 886111298112	imac
+1	qid:26	 # 36725234901	imac
+1	qid:26	 # 885909437023	imac
+1	qid:26	 # 885909436002	imac
+1	qid:26	 # 74000373105	imac
+1	qid:26	 # 885909457588	imac
+0	qid:26	 # 885909436705	imac
+1	qid:26	 # 24543742180	imac
+1	qid:26	 # 885909431618	imac
+1	qid:26	 # 35011887883	imac
+0	qid:26	 # 885370222579	imac
+1	qid:26	 # 99802944230	imac
+0	qid:26	 # 93573779886	imac
+1	qid:26	 # 36725235564	imac
+0	qid:26	 # 97361538242	imac
+1	qid:26	 # 47404659052	imac
+0	qid:26	 # 57112096933	imac
+0	qid:26	 # 99802956455	imac
+0	qid:26	 # 18208254729	imac
+4	qid:27	 # 886111287055	hp touch pad
+3	qid:27	 # 814916014385	hp touch pad
+3	qid:27	 # 886111258505	hp touch pad
+3	qid:27	 # 635753493559	hp touch pad
+3	qid:27	 # 884116069973	hp touch pad
+3	qid:27	 # 886111271283	hp touch pad
+2	qid:27	 # 886111271436	hp touch pad
+3	qid:27	 # 885909394845	hp touch pad
+2	qid:27	 # 27242800205	hp touch pad
+2	qid:27	 # 711719831105	hp touch pad
+2	qid:27	 # 27242830608	hp touch pad
+2	qid:27	 # 602527681436	hp touch pad
+2	qid:27	 # 99802944223	hp touch pad
+2	qid:27	 # 886111271368	hp touch pad
+2	qid:27	 # 716829772249	hp touch pad
+2	qid:27	 # 885909472376	hp touch pad
+2	qid:27	 # 843404076567	hp touch pad
+2	qid:27	 # 847275000003	hp touch pad
+2	qid:27	 # 886111778287	hp touch pad
+2	qid:27	 # 843404073153	hp touch pad
+2	qid:27	 # 811369001832	hp touch pad
+2	qid:27	 # 635753490879	hp touch pad
+2	qid:27	 # 847275000065	hp touch pad
+2	qid:27	 # 843404072712	hp touch pad
+2	qid:27	 # 766907560411	hp touch pad
+2	qid:27	 # 718037751825	hp touch pad
+2	qid:27	 # 716829782446	hp touch pad
+2	qid:27	 # 636926048583	hp touch pad
+2	qid:27	 # 36725234833	hp touch pad
+1	qid:27	 # 821793007829	hp touch pad
+4	qid:28	 # 650450115955	ipad2
+3	qid:28	 # 843404073153	ipad2
+3	qid:28	 # 685387352913	ipad2
+4	qid:28	 # 885909393404	ipad2
+3	qid:28	 # 885909457618	ipad2
+3	qid:28	 # 885909457632	ipad2
+2	qid:28	 # 33991032903	ipad2
+3	qid:28	 # 885909457601	ipad2
+2	qid:28	 # 885909323999	ipad2
+2	qid:28	 # 885909470440	ipad2
+2	qid:28	 # 610839379408	ipad2
+2	qid:28	 # 885909470396	ipad2
+2	qid:28	 # 885909457595	ipad2
+2	qid:28	 # 885909471546	ipad2
+2	qid:28	 # 885909457588	ipad2
+2	qid:28	 # 885909471812	ipad2
+2	qid:28	 # 92636260705	ipad2
+2	qid:28	 # 92636260712	ipad2
+2	qid:28	 # 885909472925	ipad2
+2	qid:28	 # 723755811379	ipad2
+2	qid:28	 # 21331432285	ipad2
+2	qid:28	 # 21331374011	ipad2
+2	qid:28	 # 635753493559	ipad2
+1	qid:28	 # 885909472376	ipad2
+2	qid:28	 # 885909470419	ipad2
+1	qid:28	 # 885909471744	ipad2
+1	qid:28	 # 660543008811	ipad2
+1	qid:28	 # 885909457625	ipad2
+2	qid:28	 # 885909470402	ipad2
+2	qid:28	 # 722868830062	ipad2
+3	qid:29	 # 878615021747	ipod touch
+3	qid:29	 # 885909497232	ipod touch
+2	qid:29	 # 885909394845	ipod touch
+2	qid:29	 # 885909395095	ipod touch
+1	qid:29	 # 689076070218	ipod touch
+2	qid:29	 # 815166010004	ipod touch
+2	qid:29	 # 885909497256	ipod touch
+1	qid:29	 # 884720011733	ipod touch
+1	qid:29	 # 600603137204	ipod touch
+2	qid:29	 # 685387311279	ipod touch
+1	qid:29	 # 885909395347	ipod touch
+1	qid:29	 # 885909341320	ipod touch
+1	qid:29	 # 685387312092	ipod touch
+1	qid:29	 # 685387332410	ipod touch
+1	qid:29	 # 685387311620	ipod touch
+1	qid:29	 # 21331115096	ipod touch
+1	qid:29	 # 884720011757	ipod touch
+1	qid:29	 # 685387311019	ipod touch
+1	qid:29	 # 850460002881	ipod touch
+1	qid:29	 # 885805000154	ipod touch
+1	qid:29	 # 815741010443	ipod touch
+1	qid:29	 # 885909301867	ipod touch
+1	qid:29	 # 885909497249	ipod touch
+1	qid:29	 # 685387311811	ipod touch
+1	qid:29	 # 815166010028	ipod touch
+1	qid:29	 # 899794007247	ipod touch
+1	qid:29	 # 886112432140	ipod touch
+1	qid:29	 # 685387345038	ipod touch
+0	qid:29	 # 660543004868	ipod touch
+1	qid:29	 # 886112201586	ipod touch
+4	qid:30	 # 829610880068	roku
+5	qid:30	 # 829610880075	roku
+2	qid:30	 # 97855070906	roku
+2	qid:30	 # 829610880020	roku
+2	qid:30	 # 27242807785	roku
+1	qid:30	 # 885909410521	roku
+2	qid:30	 # 790069335631	roku
+1	qid:30	 # 96427016878	roku
+1	qid:30	 # 606449067798	roku
+1	qid:30	 # 27242807303	roku
+0	qid:30	 # 609585193758	roku
+1	qid:30	 # 645743796782	roku
+1	qid:30	 # 86279003737	roku
+1	qid:30	 # 719192580565	roku
+1	qid:30	 # 716829922095	roku
+1	qid:30	 # 718037764542	roku
+1	qid:30	 # 36725234635	roku
+1	qid:30	 # 27242809369	roku
+0	qid:30	 # 635753492965	roku
+1	qid:30	 # 729507816036	roku
+0	qid:30	 # 99802970796	roku
+1	qid:30	 # 719192580336	roku
+1	qid:30	 # 719192578630	roku
+1	qid:30	 # 652810116862	roku
+0	qid:30	 # 836182002705	roku
+1	qid:30	 # 883974845064	roku
+1	qid:30	 # 884116069973	roku
+1	qid:30	 # 751398009976	roku
+3	qid:31	 # 9781400532650	kindle
+3	qid:31	 # 813580018514	kindle
+2	qid:31	 # 814916010219	kindle
+1	qid:31	 # 814916014590	kindle
+1	qid:31	 # 814916010240	kindle
+1	qid:31	 # 814916014385	kindle
+1	qid:31	 # 814916011896	kindle
+1	qid:31	 # 813580017906	kindle
+1	qid:31	 # 814916014361	kindle
+1	qid:31	 # 813580015261	kindle
+1	qid:31	 # 814916011872	kindle
+1	qid:31	 # 814916010288	kindle
+1	qid:31	 # 814916010233	kindle
+1	qid:31	 # 843404077182	kindle
+1	qid:31	 # 9781400532711	kindle
+1	qid:31	 # 886111287055	kindle
+1	qid:31	 # 92636257521	kindle
+1	qid:31	 # 814916010202	kindle
+0	qid:31	 # 813580015247	kindle
+1	qid:31	 # 813580017579	kindle
+0	qid:31	 # 813580018491	kindle
+1	qid:31	 # 814916014606	kindle
+1	qid:31	 # 813580015797	kindle
+1	qid:31	 # 813580015155	kindle
+1	qid:31	 # 813580015223	kindle
+0	qid:31	 # 813580015636	kindle
+0	qid:31	 # 813580018361	kindle
+0	qid:31	 # 813580015933	kindle
+0	qid:31	 # 817866000651	kindle
+0	qid:31	 # 885909457588	kindle
+3	qid:32	 # 24543750949	captain america
+4	qid:32	 # 97361538341	captain america
+3	qid:32	 # 826663129410	captain america
+3	qid:32	 # 97361538242	captain america
+2	qid:32	 # 14633195927	captain america
+2	qid:32	 # 187016550054	captain america
+2	qid:32	 # 883929196234	captain america
+2	qid:32	 # 50087243128	captain america
+1	qid:32	 # 883929197965	captain america
+1	qid:32	 # 883929221509	captain america
+2	qid:32	 # 10086670394	captain america
+1	qid:32	 # 10086650464	captain america
+1	qid:32	 # 97361439747	captain america
+1	qid:32	 # 688955808478	captain america
+2	qid:32	 # 17817555234	captain america
+2	qid:32	 # 704400038655	captain america
+1	qid:32	 # 704400094699	captain america
+1	qid:32	 # 187016401257	captain america
+1	qid:32	 # 766878002750	captain america
+1	qid:32	 # 886112432140	captain america
+1	qid:32	 # 8888346845	captain america
+1	qid:32	 # 10086690507	captain america
+1	qid:32	 # 97361455044	captain america
+1	qid:32	 # 43396376700	captain america
+1	qid:32	 # 41778950746	captain america
+1	qid:32	 # 786936817218	captain america
+1	qid:32	 # 826663128161	captain america
+1	qid:32	 # 31398144359	captain america
+1	qid:32	 # 25195055505	captain america
+1	qid:32	 # 25192107191	captain america
+3	qid:33	 # 848447000159	beats
+2	qid:33	 # 50644561337	beats
+2	qid:33	 # 848447000265	beats
+2	qid:33	 # 848447000050	beats
+1	qid:33	 # 50644614705	beats
+1	qid:33	 # 848447000074	beats
+1	qid:33	 # 848447000258	beats
+1	qid:33	 # 848447000142	beats
+1	qid:33	 # 848447000296	beats
+1	qid:33	 # 50644600470	beats
+1	qid:33	 # 848447000173	beats
+1	qid:33	 # 50644579523	beats
+1	qid:33	 # 50644577055	beats
+1	qid:33	 # 723755894396	beats
+1	qid:33	 # 848447000135	beats
+1	qid:33	 # 848447000036	beats
+1	qid:33	 # 81227761721	beats
+1	qid:33	 # 848447000043	beats
+1	qid:33	 # 50644556647	beats
+1	qid:33	 # 848447000180	beats
+1	qid:33	 # 848447000081	beats
+0	qid:33	 # 848447000029	beats
+0	qid:33	 # 50644587771	beats
+1	qid:33	 # 50644577048	beats
+0	qid:33	 # 50644632167	beats
+0	qid:33	 # 848447000005	beats
+0	qid:33	 # 615104140707	beats
+0	qid:33	 # 848447000999	beats
+0	qid:33	 # 854381003002	beats
+4	qid:34	 # 27242807303	google tv
+8	qid:34	 # 97855070906	google tv
+4	qid:34	 # 27242796256	google tv
+3	qid:34	 # 97855071491	google tv
+3	qid:34	 # 27242784925	google tv
+3	qid:34	 # 885909410521	google tv
+3	qid:34	 # 719192578630	google tv
+3	qid:34	 # 27242796232	google tv
+2	qid:34	 # 812142010201	google tv
+2	qid:34	 # 27242796225	google tv
+3	qid:34	 # 27242800205	google tv
+2	qid:34	 # 27242796249	google tv
+3	qid:34	 # 36725236196	google tv
+3	qid:34	 # 829610880068	google tv
+2	qid:34	 # 23169109513	google tv
+2	qid:34	 # 733961767391	google tv
+2	qid:34	 # 22265004333	google tv
+2	qid:34	 # 851342000865	google tv
+2	qid:34	 # 27242817241	google tv
+2	qid:34	 # 36725236271	google tv
+1	qid:34	 # 36725235564	google tv
+1	qid:34	 # 27242816770	google tv
+1	qid:34	 # 27242817197	google tv
+1	qid:34	 # 42666611657	google tv
+1	qid:34	 # 43396385368	google tv
+2	qid:34	 # 50644575839	google tv
+2	qid:34	 # 74000373297	google tv
+1	qid:34	 # 36725608894	google tv
+1	qid:34	 # 36725236233	google tv
+2	qid:34	 # 97855072313	google tv
+4	qid:35	 # 883929161881	playstation 3
+4	qid:35	 # 47875843660	playstation 3
+5	qid:35	 # 711719842309	playstation 3
+3	qid:35	 # 711719990048	playstation 3
+3	qid:35	 # 710425470561	playstation 3
+3	qid:35	 # 663296416087	playstation 3
+3	qid:35	 # 718037753027	playstation 3
+2	qid:35	 # 711719842408	playstation 3
+2	qid:35	 # 711719831105	playstation 3
+2	qid:35	 # 718037753171	playstation 3
+2	qid:35	 # 97855059161	playstation 3
+2	qid:35	 # 711719984382	playstation 3
+3	qid:35	 # 14633196337	playstation 3
+2	qid:35	 # 14633196467	playstation 3
+2	qid:35	 # 663296414328	playstation 3
+2	qid:35	 # 14633193565	playstation 3
+2	qid:35	 # 711719837527	playstation 3
+2	qid:35	 # 711719804604	playstation 3
+2	qid:35	 # 47875840041	playstation 3
+2	qid:35	 # 663296413666	playstation 3
+2	qid:35	 # 711719807803	playstation 3
+1	qid:35	 # 47875842397	playstation 3
+2	qid:35	 # 711719836704	playstation 3
+2	qid:35	 # 711719811121	playstation 3
+1	qid:35	 # 14633194357	playstation 3
+2	qid:35	 # 711719770602	playstation 3
+1	qid:35	 # 14633195927	playstation 3
+2	qid:35	 # 47875842120	playstation 3
+2	qid:35	 # 93155117723	playstation 3
+2	qid:35	 # 93155117440	playstation 3
+3	qid:36	 # 24543559856	bridesmaids
+5	qid:36	 # 25192112317	bridesmaids
+4	qid:36	 # 25192076251	bridesmaids
+3	qid:36	 # 883929209804	bridesmaids
+3	qid:36	 # 883476032849	bridesmaids
+2	qid:36	 # 24543725671	bridesmaids
+2	qid:36	 # 8888346784	bridesmaids
+3	qid:36	 # 97361459844	bridesmaids
+2	qid:36	 # 811369001832	bridesmaids
+3	qid:36	 # 13132349695	bridesmaids
+2	qid:36	 # 97361439648	bridesmaids
+2	qid:36	 # 24543750949	bridesmaids
+1	qid:36	 # 97363560449	bridesmaids
+3	qid:36	 # 27242816657	bridesmaids
+2	qid:36	 # 24543729358	bridesmaids
+1	qid:36	 # 883929163014	bridesmaids
+2	qid:36	 # 854727002300	bridesmaids
+1	qid:36	 # 13132326399	bridesmaids
+1	qid:36	 # 882777063507	bridesmaids
+2	qid:36	 # 74000373099	bridesmaids
+2	qid:36	 # 97360810042	bridesmaids
+2	qid:36	 # 24543742180	bridesmaids
+2	qid:36	 # 650450113166	bridesmaids
+1	qid:36	 # 18713580290	bridesmaids
+1	qid:36	 # 22265004395	bridesmaids
+2	qid:36	 # 883929057832	bridesmaids
+3	qid:37	 # 660685020412	tivo
+3	qid:37	 # 884116069973	tivo
+5	qid:37	 # 851342000919	tivo
+3	qid:37	 # 97855070906	tivo
+3	qid:37	 # 851342000865	tivo
+3	qid:37	 # 851342000858	tivo
+3	qid:37	 # 851342000933	tivo
+3	qid:37	 # 851342000841	tivo
+3	qid:37	 # 851342000223	tivo
+3	qid:37	 # 13803123784	tivo
+3	qid:37	 # 815227009244	tivo
+2	qid:37	 # 27242807303	tivo
+2	qid:37	 # 851342000902	tivo
+2	qid:37	 # 853748001101	tivo
+2	qid:37	 # 885909410521	tivo
+2	qid:37	 # 635753490541	tivo
+1	qid:37	 # 36725568105	tivo
+2	qid:37	 # 12502605324	tivo
+2	qid:37	 # 44476814686	tivo
+1	qid:37	 # 799366723103	tivo
+2	qid:37	 # 829610880068	tivo
+2	qid:37	 # 27242806368	tivo
+1	qid:37	 # 328785037005	tivo
+2	qid:37	 # 36725235564	tivo
+1	qid:37	 # 802258461103	tivo
+1	qid:37	 # 726947108431	tivo
+2	qid:37	 # 635753486377	tivo
+1	qid:37	 # 602527517001	tivo
+2	qid:37	 # 885170043602	tivo
+3	qid:38	 # 602527434506	lil wayne
+3	qid:38	 # 189458678921	lil wayne
+3	qid:38	 # 602527536927	lil wayne
+2	qid:38	 # 602527681436	lil wayne
+2	qid:38	 # 783489356423	lil wayne
+1	qid:38	 # 602527681412	lil wayne
+1	qid:38	 # 97037811792	lil wayne
+1	qid:38	 # 243774295221	lil wayne
+1	qid:38	 # 602527807959	lil wayne
+2	qid:38	 # 786984033998	lil wayne
+1	qid:38	 # 875984548929	lil wayne
+1	qid:38	 # 602527791494	lil wayne
+1	qid:38	 # 723755834491	lil wayne
+1	qid:38	 # 602527006321	lil wayne
+1	qid:38	 # 602517834866	lil wayne
+1	qid:38	 # 601215391923	lil wayne
+1	qid:38	 # 783489003228	lil wayne
+1	qid:38	 # 602498611647	lil wayne
+1	qid:38	 # 24543219897	lil wayne
+1	qid:38	 # 42286091129	lil wayne
+1	qid:38	 # 878003897527	lil wayne
+1	qid:38	 # 883476012186	lil wayne
+0	qid:38	 # 886111287055	lil wayne
+1	qid:38	 # 602517065475	lil wayne
+1	qid:38	 # 602517834897	lil wayne
+0	qid:38	 # 886970643429	lil wayne
+1	qid:38	 # 705105582467	lil wayne
+1	qid:38	 # 602527094571	lil wayne
+0	qid:38	 # 602517798076	lil wayne
+0	qid:38	 # 43396161498	lil wayne
+9	qid:39	 # 602527791494	watch the throne
+4	qid:39	 # 602527650579	watch the throne
+3	qid:39	 # 673951030428	watch the throne
+3	qid:39	 # 602527395319	watch the throne
+2	qid:39	 # 27242796225	watch the throne
+2	qid:39	 # 602527681436	watch the throne
+2	qid:39	 # 602527650593	watch the throne
+2	qid:39	 # 93624955832	watch the throne
+2	qid:39	 # 50644556647	watch the throne
+2	qid:39	 # 886111287055	watch the throne
+2	qid:39	 # 14633169546	watch the throne
+3	qid:40	 # 9781400532650	kindle
+3	qid:40	 # 813580018514	kindle
+2	qid:40	 # 814916010219	kindle
+1	qid:40	 # 814916014590	kindle
+1	qid:40	 # 814916010240	kindle
+1	qid:40	 # 814916014385	kindle
+1	qid:40	 # 814916011896	kindle
+1	qid:40	 # 813580017906	kindle
+1	qid:40	 # 814916014361	kindle
+1	qid:40	 # 813580015261	kindle
+1	qid:40	 # 814916011872	kindle
+1	qid:40	 # 814916010288	kindle
+1	qid:40	 # 814916010233	kindle
+1	qid:40	 # 843404077182	kindle
+1	qid:40	 # 9781400532711	kindle
+1	qid:40	 # 886111287055	kindle
+1	qid:40	 # 92636257521	kindle
+1	qid:40	 # 814916010202	kindle
+0	qid:40	 # 813580015247	kindle
+1	qid:40	 # 813580017579	kindle
+0	qid:40	 # 813580018491	kindle
+1	qid:40	 # 814916014606	kindle
+1	qid:40	 # 813580015797	kindle
+1	qid:40	 # 813580015155	kindle
+1	qid:40	 # 813580015223	kindle
+0	qid:40	 # 813580015636	kindle
+0	qid:40	 # 813580018361	kindle
+0	qid:40	 # 813580015933	kindle
+0	qid:40	 # 817866000651	kindle
+0	qid:40	 # 885909457588	kindle
+7	qid:41	 # 97361455143	thor
+3	qid:41	 # 97361439648	thor
+3	qid:41	 # 97361455044	thor
+3	qid:41	 # 13132310190	thor
+2	qid:41	 # 10086650457	thor
+1	qid:41	 # 10086670387	thor
+2	qid:41	 # 24543669197	thor
+1	qid:41	 # 10086690491	thor
+1	qid:41	 # 24543750949	thor
+1	qid:41	 # 786936817218	thor
+2	qid:41	 # 884116069973	thor
+2	qid:41	 # 50087240837	thor
+1	qid:41	 # 18208254729	thor
+2	qid:41	 # 25192107214	thor
+1	qid:41	 # 883974682928	thor
+2	qid:41	 # 25192033292	thor
+2	qid:41	 # 24543750871	thor
+1	qid:41	 # 31398135722	thor
+1	qid:41	 # 8888346845	thor
+1	qid:41	 # 883974814251	thor
+1	qid:41	 # 24543669289	thor
+1	qid:41	 # 13132309491	thor
+1	qid:41	 # 24543777380	thor
+1	qid:41	 # 27242808652	thor
+1	qid:41	 # 27242809369	thor
+0	qid:41	 # 27616877277	thor
+0	qid:41	 # 36725235205	thor
+2	qid:41	 # 36725235564	thor
+1	qid:41	 # 24543742180	thor
+1	qid:41	 # 14381724950	thor
+3	qid:42	 # 24543750949	captain america
+4	qid:42	 # 97361538341	captain america
+3	qid:42	 # 826663129410	captain america
+3	qid:42	 # 97361538242	captain america
+2	qid:42	 # 14633195927	captain america
+2	qid:42	 # 187016550054	captain america
+2	qid:42	 # 883929196234	captain america
+2	qid:42	 # 50087243128	captain america
+1	qid:42	 # 883929197965	captain america
+1	qid:42	 # 883929221509	captain america
+2	qid:42	 # 10086670394	captain america
+1	qid:42	 # 10086650464	captain america
+1	qid:42	 # 97361439747	captain america
+1	qid:42	 # 688955808478	captain america
+2	qid:42	 # 17817555234	captain america
+2	qid:42	 # 704400038655	captain america
+1	qid:42	 # 704400094699	captain america
+1	qid:42	 # 187016401257	captain america
+1	qid:42	 # 766878002750	captain america
+1	qid:42	 # 886112432140	captain america
+1	qid:42	 # 8888346845	captain america
+1	qid:42	 # 10086690507	captain america
+1	qid:42	 # 97361455044	captain america
+1	qid:42	 # 43396376700	captain america
+1	qid:42	 # 41778950746	captain america
+1	qid:42	 # 786936817218	captain america
+1	qid:42	 # 826663128161	captain america
+1	qid:42	 # 31398144359	captain america
+1	qid:42	 # 25195055505	captain america
+1	qid:42	 # 25192107191	captain america
+4	qid:43	 # 885909424184	ipod
+2	qid:43	 # 885909394845	ipod
+2	qid:43	 # 884938116084	ipod
+2	qid:43	 # 19048191786	ipod
+1	qid:43	 # 885909497232	ipod
+2	qid:43	 # 885909423408	ipod
+1	qid:43	 # 619659070854	ipod
+1	qid:43	 # 799366489481	ipod
+1	qid:43	 # 722868787335	ipod
+2	qid:43	 # 799366153153	ipod
+1	qid:43	 # 884720011757	ipod
+1	qid:43	 # 885909395095	ipod
+1	qid:43	 # 21331115096	ipod
+1	qid:43	 # 885909395347	ipod
+1	qid:43	 # 885909412051	ipod
+1	qid:43	 # 21331704313	ipod
+1	qid:43	 # 46838043963	ipod
+1	qid:43	 # 896431001309	ipod
+1	qid:43	 # 885909423538	ipod
+1	qid:43	 # 885909423927	ipod
+1	qid:43	 # 885909301867	ipod
+1	qid:43	 # 18111929196	ipod
+1	qid:43	 # 18111928090	ipod
+1	qid:43	 # 50644516641	ipod
+1	qid:43	 # 885909412006	ipod
+1	qid:43	 # 21331650184	ipod
+1	qid:43	 # 885909341320	ipod
+1	qid:43	 # 885909497249	ipod
+1	qid:43	 # 685387312092	ipod
+1	qid:43	 # 885909409945	ipod
+3	qid:44	 # 767649403448	dead island
+3	qid:44	 # 712725021139	dead island
+4	qid:44	 # 895678002490	dead island
+4	qid:44	 # 895678002476	dead island
+3	qid:44	 # 886111249411	dead island
+3	qid:44	 # 885909394845	dead island
+3	qid:44	 # 883929106646	dead island
+3	qid:44	 # 883974827985	dead island
+3	qid:44	 # 711719812425	dead island
+3	qid:44	 # 99802970796	dead island
+3	qid:44	 # 45496741556	dead island
+2	qid:44	 # 884116069973	dead island
+1	qid:44	 # 711719836704	dead island
+1	qid:44	 # 47875842052	dead island
+1	qid:44	 # 731855021550	dead island
+1	qid:44	 # 752073013264	dead island
+2	qid:44	 # 400032155141	dead island
+2	qid:44	 # 662248910192	dead island
+1	qid:44	 # 711719817628	dead island
+2	qid:44	 # 711719827924	dead island
+2	qid:44	 # 400028565992	dead island
+1	qid:44	 # 93155117723	dead island
+2	qid:44	 # 12505111129	dead island
+2	qid:44	 # 719192582064	dead island
+2	qid:44	 # 883929158713	dead island
+2	qid:44	 # 185323000897	dead island
+1	qid:44	 # 883919199313	dead island
+1	qid:44	 # 36725235564	dead island
+2	qid:44	 # 885370226577	dead island
+1	qid:44	 # 711719836629	dead island
+4	qid:45	 # 885909391899	ipod nano
+4	qid:45	 # 698182016942	ipod nano
+3	qid:45	 # 722868820841	ipod nano
+3	qid:45	 # 74345174023	ipod nano
+3	qid:45	 # 885909423538	ipod nano
+3	qid:45	 # 885909423408	ipod nano
+2	qid:45	 # 722868814505	ipod nano
+3	qid:45	 # 885909424313	ipod nano
+2	qid:45	 # 698182016843	ipod nano
+2	qid:45	 # 698182016782	ipod nano
+3	qid:45	 # 723755834491	ipod nano
+2	qid:45	 # 885909424184	ipod nano
+2	qid:45	 # 885909341320	ipod nano
+2	qid:45	 # 885909391752	ipod nano
+2	qid:45	 # 885909423668	ipod nano
+2	qid:45	 # 600603127427	ipod nano
+2	qid:45	 # 885909424443	ipod nano
+2	qid:45	 # 885909424702	ipod nano
+2	qid:45	 # 885909394845	ipod nano
+2	qid:45	 # 885909409945	ipod nano
+1	qid:45	 # 885909424573	ipod nano
+2	qid:45	 # 885909423927	ipod nano
+1	qid:45	 # 685387328963	ipod nano
+2	qid:45	 # 885909412051	ipod nano
+1	qid:45	 # 885909423798	ipod nano
+1	qid:45	 # 685387312207	ipod nano
+1	qid:45	 # 685387312221	ipod nano
+1	qid:45	 # 685387314867	ipod nano
+1	qid:45	 # 685387332434	ipod nano
+1	qid:45	 # 685387318964	ipod nano
+4	qid:46	 # 829610880068	roku
+5	qid:46	 # 829610880075	roku
+2	qid:46	 # 97855070906	roku
+2	qid:46	 # 829610880020	roku
+2	qid:46	 # 27242807785	roku
+1	qid:46	 # 885909410521	roku
+2	qid:46	 # 790069335631	roku
+1	qid:46	 # 96427016878	roku
+1	qid:46	 # 606449067798	roku
+1	qid:46	 # 27242807303	roku
+0	qid:46	 # 609585193758	roku
+1	qid:46	 # 645743796782	roku
+1	qid:46	 # 86279003737	roku
+1	qid:46	 # 719192580565	roku
+1	qid:46	 # 716829922095	roku
+1	qid:46	 # 718037764542	roku
+1	qid:46	 # 36725234635	roku
+1	qid:46	 # 27242809369	roku
+0	qid:46	 # 635753492965	roku
+1	qid:46	 # 729507816036	roku
+0	qid:46	 # 99802970796	roku
+1	qid:46	 # 719192580336	roku
+1	qid:46	 # 719192578630	roku
+1	qid:46	 # 652810116862	roku
+0	qid:46	 # 836182002705	roku
+1	qid:46	 # 883974845064	roku
+1	qid:46	 # 884116069973	roku
+1	qid:46	 # 751398009976	roku
+3	qid:47	 # 602527434506	lil wayne
+3	qid:47	 # 189458678921	lil wayne
+3	qid:47	 # 602527536927	lil wayne
+2	qid:47	 # 602527681436	lil wayne
+2	qid:47	 # 783489356423	lil wayne
+1	qid:47	 # 602527681412	lil wayne
+1	qid:47	 # 97037811792	lil wayne
+1	qid:47	 # 243774295221	lil wayne
+1	qid:47	 # 602527807959	lil wayne
+2	qid:47	 # 786984033998	lil wayne
+1	qid:47	 # 875984548929	lil wayne
+1	qid:47	 # 602527791494	lil wayne
+1	qid:47	 # 723755834491	lil wayne
+1	qid:47	 # 602527006321	lil wayne
+1	qid:47	 # 602517834866	lil wayne
+1	qid:47	 # 601215391923	lil wayne
+1	qid:47	 # 783489003228	lil wayne
+1	qid:47	 # 602498611647	lil wayne
+1	qid:47	 # 24543219897	lil wayne
+1	qid:47	 # 42286091129	lil wayne
+1	qid:47	 # 878003897527	lil wayne
+1	qid:47	 # 883476012186	lil wayne
+0	qid:47	 # 886111287055	lil wayne
+1	qid:47	 # 602517065475	lil wayne
+1	qid:47	 # 602517834897	lil wayne
+0	qid:47	 # 886970643429	lil wayne
+1	qid:47	 # 705105582467	lil wayne
+1	qid:47	 # 602527094571	lil wayne
+0	qid:47	 # 602517798076	lil wayne
+0	qid:47	 # 43396161498	lil wayne
+6	qid:48	 # 50644614705	beats by dre
+4	qid:48	 # 50644577048	beats by dre
+3	qid:48	 # 50644561337	beats by dre
+2	qid:48	 # 50644600470	beats by dre
+2	qid:48	 # 848447000258	beats by dre
+2	qid:48	 # 848447000050	beats by dre
+2	qid:48	 # 848447000036	beats by dre
+2	qid:48	 # 50644579523	beats by dre
+2	qid:48	 # 848447000043	beats by dre
+2	qid:48	 # 848447000074	beats by dre
+2	qid:48	 # 848447000142	beats by dre
+2	qid:48	 # 848447000180	beats by dre
+1	qid:48	 # 848447000265	beats by dre
+1	qid:48	 # 50644556647	beats by dre
+1	qid:48	 # 50644632167	beats by dre
+2	qid:48	 # 848447000081	beats by dre
+1	qid:48	 # 848447000173	beats by dre
+1	qid:48	 # 848447000296	beats by dre
+1	qid:48	 # 848447000005	beats by dre
+1	qid:48	 # 848447000999	beats by dre
+1	qid:48	 # 870143005626	beats by dre
+1	qid:48	 # 848447000029	beats by dre
+1	qid:48	 # 50644577055	beats by dre
+1	qid:48	 # 50644587771	beats by dre
+1	qid:48	 # 848447000135	beats by dre
+1	qid:48	 # 886111334483	beats by dre
+0	qid:48	 # 615104140707	beats by dre
+0	qid:48	 # 723755894396	beats by dre
+0	qid:48	 # 615104099692	beats by dre
+4	qid:49	 # 813580013571	nook
+3	qid:49	 # 9781400532711	nook
+3	qid:49	 # 814916014606	nook
+2	qid:49	 # 9780594033936	nook
+2	qid:49	 # 92636257521	nook
+1	qid:49	 # 9781400532650	nook
+1	qid:49	 # 9781616874452	nook
+1	qid:49	 # 813580017869	nook
+2	qid:49	 # 9780594033899	nook
+1	qid:49	 # 9781615527670	nook
+2	qid:49	 # 814916011896	nook
+1	qid:49	 # 9781615527656	nook
+1	qid:49	 # 813580017043	nook
+1	qid:49	 # 813580017883	nook
+1	qid:49	 # 814916014361	nook
+1	qid:49	 # 660543005827	nook
+1	qid:49	 # 814916011872	nook
+1	qid:49	 # 813580018101	nook
+1	qid:49	 # 9781400532629	nook
+1	qid:49	 # 716829772249	nook
+1	qid:49	 # 9781615527649	nook
+1	qid:49	 # 9780594033912	nook
+1	qid:49	 # 813580017937	nook
+1	qid:49	 # 843404077427	nook
+1	qid:49	 # 813580016824	nook
+1	qid:49	 # 9781400532667	nook
+1	qid:49	 # 9780594033929	nook
+0	qid:49	 # 814916010219	nook
+0	qid:49	 # 813580016961	nook
+0	qid:49	 # 814916010240	nook
+3	qid:50	 # 711719831105	just dance 3
+7	qid:50	 # 8888196778	just dance 3
+4	qid:50	 # 8888346777	just dance 3
+3	qid:50	 # 743840870166	just dance 3
+3	qid:50	 # 885370315080	just dance 3
+3	qid:50	 # 8888177067	just dance 3
+1	qid:50	 # 884116066378	just dance 3
+1	qid:50	 # 786936818918	just dance 3
+1	qid:50	 # 45496741723	just dance 3
+1	qid:50	 # 617885959141	just dance 3
+1	qid:50	 # 83717251248	just dance 3
+1	qid:50	 # 47875765825	just dance 3
+3	qid:50	 # 14633169522	just dance 3
+3	qid:51	 # 815772010337	slingbox
+4	qid:51	 # 852619001448	slingbox
+3	qid:51	 # 852619001585	slingbox
+3	qid:51	 # 785428011929	slingbox
+2	qid:51	 # 86429019281	slingbox
+2	qid:51	 # 97855070906	slingbox
+2	qid:51	 # 719192582071	slingbox
+2	qid:51	 # 42976913175	slingbox
+1	qid:51	 # 29521831856	slingbox
+1	qid:51	 # 29757178022	slingbox
+1	qid:51	 # 74345174504	slingbox
+2	qid:51	 # 93624966807	slingbox
+1	qid:51	 # 745883592388	slingbox
+1	qid:51	 # 723755811416	slingbox
+1	qid:51	 # 36725734005	slingbox
+1	qid:51	 # 610839350759	slingbox
+1	qid:51	 # 48894038778	slingbox
+1	qid:51	 # 24543742180	slingbox
+1	qid:51	 # 610214626097	slingbox
+1	qid:51	 # 13803133783	slingbox
+1	qid:51	 # 789270004450	slingbox
+1	qid:51	 # 790069335631	slingbox
+1	qid:51	 # 705176892885	slingbox
+1	qid:51	 # 718037765112	slingbox
+1	qid:51	 # 8811201722	slingbox
+1	qid:51	 # 722868818916	slingbox
+1	qid:51	 # 745883593262	slingbox
+0	qid:51	 # 31398114420	slingbox
+1	qid:51	 # 786936817218	slingbox
+1	qid:51	 # 8811195328	slingbox
+3	qid:52	 # 821793013776	ipad
+2	qid:52	 # 635753490879	ipad
+1	qid:52	 # 722868830062	ipad
+1	qid:52	 # 884483917488	ipad
+1	qid:52	 # 886111271283	ipad
+1	qid:52	 # 884962753071	ipad
+1	qid:52	 # 885909457588	ipad
+1	qid:52	 # 716829772249	ipad
+1	qid:52	 # 885909457595	ipad
+1	qid:52	 # 635753493559	ipad
+1	qid:52	 # 885909457618	ipad
+1	qid:52	 # 885909457632	ipad
+1	qid:52	 # 92636260712	ipad
+1	qid:52	 # 843404073153	ipad
+1	qid:52	 # 885909470396	ipad
+0	qid:52	 # 885909471812	ipad
+0	qid:52	 # 885909457601	ipad
+1	qid:52	 # 27242798236	ipad
+0	qid:52	 # 885909393404	ipad
+1	qid:52	 # 610839379408	ipad
+0	qid:52	 # 47532896084	ipad
+0	qid:52	 # 47532896053	ipad
+0	qid:52	 # 886111287055	ipad
+0	qid:52	 # 885909472376	ipad
+0	qid:52	 # 885909457625	ipad
+0	qid:52	 # 885909436705	ipad
+0	qid:52	 # 885909470440	ipad
+0	qid:52	 # 885909472925	ipad
+0	qid:52	 # 796435411725	ipad
+0	qid:52	 # 885909435265	ipad
+3	qid:53	 # 21165112452	battlefield 3
+3	qid:53	 # 804879349815	battlefield 3
+3	qid:53	 # 804879360308	battlefield 3
+3	qid:53	 # 50694482248	battlefield 3
+3	qid:53	 # 14633153613	battlefield 3
+3	qid:53	 # 883929148547	battlefield 3
+3	qid:53	 # 14633195927	battlefield 3
+3	qid:53	 # 883929213146	battlefield 3
+2	qid:53	 # 14633197280	battlefield 3
+2	qid:53	 # 14633197099	battlefield 3
+2	qid:53	 # 50694481661	battlefield 3
+2	qid:53	 # 14633195491	battlefield 3
+2	qid:53	 # 27242828469	battlefield 3
+1	qid:53	 # 11301666956	battlefield 3
+2	qid:53	 # 14633197266	battlefield 3
+2	qid:53	 # 11301672353	battlefield 3
+2	qid:53	 # 731855021307	battlefield 3
+2	qid:53	 # 711719836629	battlefield 3
+2	qid:53	 # 47875842052	battlefield 3
+1	qid:53	 # 711719221319	battlefield 3
+2	qid:53	 # 711719808503	battlefield 3
+1	qid:53	 # 47875358010	battlefield 3
+1	qid:53	 # 14633154375	battlefield 3
+1	qid:53	 # 685387329311	battlefield 3
+1	qid:53	 # 652810116862	battlefield 3
+1	qid:53	 # 711719807803	battlefield 3
+1	qid:53	 # 711719817628	battlefield 3
+1	qid:53	 # 36725235274	battlefield 3
+1	qid:53	 # 47875842120	battlefield 3
+4	qid:54	 # 884962753071	apple
+3	qid:54	 # 97363392446	apple
+3	qid:54	 # 885909446070	apple
+4	qid:54	 # 885909463626	apple
+3	qid:54	 # 885909455386	apple
+3	qid:54	 # 885909436002	apple
+3	qid:54	 # 885909457595	apple
+2	qid:54	 # 46838043963	apple
+2	qid:54	 # 885909471812	apple
+2	qid:54	 # 885909464036	apple
+2	qid:54	 # 20626723053	apple
+2	qid:54	 # 843404073153	apple
+2	qid:54	 # 885909410521	apple
+2	qid:54	 # 885909398577	apple
+2	qid:54	 # 886111287055	apple
+2	qid:54	 # 885909446421	apple
+2	qid:54	 # 885909395095	apple
+2	qid:54	 # 886111271283	apple
+2	qid:54	 # 885909480982	apple
+2	qid:54	 # 885909432257	apple
+2	qid:54	 # 885909436705	apple
+1	qid:54	 # 843404064434	apple
+1	qid:54	 # 885909431618	apple
+2	qid:54	 # 885909394845	apple
+2	qid:54	 # 718037755465	apple
+2	qid:54	 # 885909437023	apple
+2	qid:54	 # 799366153153	apple
+2	qid:54	 # 885909400508	apple
+1	qid:54	 # 885909455621	apple
+1	qid:54	 # 885909457588	apple
+4	qid:55	 # 885909457588	xoom
+3	qid:55	 # 883974845064	xoom
+4	qid:55	 # 886111287055	xoom
+3	qid:55	 # 635753493559	xoom
+3	qid:55	 # 843404071937	xoom
+3	qid:55	 # 722868832721	xoom
+3	qid:55	 # 723755000018	xoom
+3	qid:55	 # 723755000605	xoom
+2	qid:55	 # 723755811379	xoom
+2	qid:55	 # 610839379408	xoom
+2	qid:55	 # 723755895188	xoom
+2	qid:55	 # 723755894549	xoom
+2	qid:55	 # 723755894440	xoom
+2	qid:55	 # 660543007517	xoom
+2	qid:55	 # 635753493573	xoom
+2	qid:55	 # 723755894488	xoom
+2	qid:55	 # 821793013776	xoom
+1	qid:55	 # 635753493542	xoom
+3	qid:55	 # 29757150752	xoom
+1	qid:55	 # 885909457595	xoom
+2	qid:55	 # 74000373075	xoom
+3	qid:55	 # 9781400532650	xoom
+1	qid:55	 # 635753490879	xoom
+3	qid:55	 # 36725608894	xoom
+1	qid:55	 # 722868832769	xoom
+0	qid:55	 # 610839379415	xoom
+0	qid:55	 # 610839364305	xoom
+1	qid:55	 # 609585193758	xoom
+1	qid:55	 # 85896393047	xoom
+1	qid:55	 # 74000373105	xoom
+4	qid:56	 # 813580013571	nook
+3	qid:56	 # 9781400532711	nook
+3	qid:56	 # 814916014606	nook
+2	qid:56	 # 9780594033936	nook
+2	qid:56	 # 92636257521	nook
+1	qid:56	 # 9781400532650	nook
+1	qid:56	 # 9781616874452	nook
+1	qid:56	 # 813580017869	nook
+2	qid:56	 # 9780594033899	nook
+1	qid:56	 # 9781615527670	nook
+2	qid:56	 # 814916011896	nook
+1	qid:56	 # 9781615527656	nook
+1	qid:56	 # 813580017043	nook
+1	qid:56	 # 813580017883	nook
+1	qid:56	 # 814916014361	nook
+1	qid:56	 # 660543005827	nook
+1	qid:56	 # 814916011872	nook
+1	qid:56	 # 813580018101	nook
+1	qid:56	 # 9781400532629	nook
+1	qid:56	 # 716829772249	nook
+1	qid:56	 # 9781615527649	nook
+1	qid:56	 # 9780594033912	nook
+1	qid:56	 # 813580017937	nook
+1	qid:56	 # 843404077427	nook
+1	qid:56	 # 813580016824	nook
+1	qid:56	 # 9781400532667	nook
+1	qid:56	 # 9780594033929	nook
+0	qid:56	 # 814916010219	nook
+0	qid:56	 # 813580016961	nook
+0	qid:56	 # 814916010240	nook
+3	qid:57	 # 731855021307	ico
+8	qid:57	 # 711719825920	ico
+4	qid:57	 # 843967071764	ico
+3	qid:57	 # 884840917991	ico
+3	qid:57	 # 711719836629	ico
+3	qid:57	 # 843404074174	ico
+3	qid:57	 # 711719828921	ico
+3	qid:57	 # 711719981756	ico
+3	qid:57	 # 786936812459	ico
+3	qid:57	 # 711719837527	ico
+2	qid:57	 # 8888346784	ico
+1	qid:57	 # 711719817628	ico
+0	qid:57	 # 8888343851	ico
+2	qid:57	 # 606449073737	ico
+2	qid:57	 # 899794007056	ico
+3	qid:58	 # 786936815115	green lantern
+3	qid:58	 # 883929167050	green lantern
+5	qid:58	 # 883929137411	green lantern
+4	qid:58	 # 883929221509	green lantern
+3	qid:58	 # 97361538242	green lantern
+3	qid:58	 # 883929140855	green lantern
+3	qid:58	 # 886112201586	green lantern
+3	qid:58	 # 883929189861	green lantern
+3	qid:58	 # 883929196234	green lantern
+3	qid:58	 # 883929197965	green lantern
+2	qid:58	 # 883929140237	green lantern
+3	qid:58	 # 654930313398	green lantern
+2	qid:58	 # 883929078387	green lantern
+3	qid:58	 # 25192089978	green lantern
+2	qid:58	 # 884840925781	green lantern
+2	qid:58	 # 24543742180	green lantern
+1	qid:58	 # 883929153817	green lantern
+1	qid:58	 # 883929136902	green lantern
+1	qid:58	 # 883929167043	green lantern
+2	qid:58	 # 43396376700	green lantern
+2	qid:58	 # 883929078417	green lantern
+1	qid:58	 # 36725234819	green lantern
+1	qid:58	 # 843163074682	green lantern
+2	qid:58	 # 711719828426	green lantern
+1	qid:58	 # 400031470467	green lantern
+2	qid:58	 # 883929167876	green lantern
+1	qid:58	 # 97361455044	green lantern
+1	qid:58	 # 97360810042	green lantern
+2	qid:58	 # 883929205622	green lantern
+1	qid:58	 # 31398127604	green lantern
+4	qid:59	 # 885909538034	iphone 4
+4	qid:59	 # 722868811641	iphone 4
+4	qid:59	 # 885909459865	iphone 4
+3	qid:59	 # 885909420469	iphone 4
+3	qid:59	 # 29521842333	iphone 4
+3	qid:59	 # 885909459858	iphone 4
+3	qid:59	 # 885909394494	iphone 4
+2	qid:59	 # 650450117263	iphone 4
+2	qid:59	 # 650450105284	iphone 4
+2	qid:59	 # 885909499441	iphone 4
+2	qid:59	 # 660543008354	iphone 4
+2	qid:59	 # 660543008224	iphone 4
+2	qid:59	 # 885909420452	iphone 4
+2	qid:59	 # 722868821848	iphone 4
+2	qid:59	 # 885909343874	iphone 4
+2	qid:59	 # 885909500185	iphone 4
+2	qid:59	 # 660543008095	iphone 4
+2	qid:59	 # 660543008217	iphone 4
+2	qid:59	 # 885909510252	iphone 4
+1	qid:59	 # 810472011455	iphone 4
+2	qid:59	 # 810472011608	iphone 4
+2	qid:59	 # 875912014205	iphone 4
+2	qid:59	 # 885909420445	iphone 4
+1	qid:59	 # 843404064434	iphone 4
+2	qid:59	 # 885909394500	iphone 4
+2	qid:59	 # 851919003008	iphone 4
+1	qid:59	 # 885909343898	iphone 4
+1	qid:59	 # 885909510344	iphone 4
+1	qid:59	 # 885909459834	iphone 4
+1	qid:59	 # 885909420438	iphone 4
+3	qid:60	 # 22265004258	lcd tv
+1	qid:60	 # 22265004289	lcd tv
+0	qid:60	 # 729507813059	lcd tv
+1	qid:60	 # 883393003458	lcd tv
+0	qid:60	 # 36725234789	lcd tv
+0	qid:60	 # 882777064009	lcd tv
+0	qid:60	 # 884483335329	lcd tv
+0	qid:60	 # 36725236271	lcd tv
+1	qid:60	 # 97278016000	lcd tv
+0	qid:60	 # 812491010334	lcd tv
+0	qid:60	 # 74000373105	lcd tv
+0	qid:60	 # 827912068474	lcd tv
+0	qid:60	 # 605342041546	lcd tv
+0	qid:60	 # 827912072969	lcd tv
+0	qid:60	 # 812491010310	lcd tv
+0	qid:60	 # 696211503197	lcd tv
+0	qid:60	 # 885170042704	lcd tv
+0	qid:60	 # 27242817197	lcd tv
+0	qid:60	 # 882777064207	lcd tv
+0	qid:60	 # 885170042667	lcd tv
+0	qid:60	 # 13803112610	lcd tv
+0	qid:60	 # 827912068467	lcd tv
+0	qid:60	 # 729507810218	lcd tv
+0	qid:60	 # 17229133204	lcd tv
+0	qid:60	 # 719192579996	lcd tv
+0	qid:60	 # 36725235564	lcd tv
+0	qid:60	 # 22265004302	lcd tv
+0	qid:60	 # 723755834491	lcd tv
+3	qid:61	 # 885909472376	i pad
+3	qid:61	 # 610839379408	i pad
+3	qid:61	 # 92636257460	i pad
+3	qid:61	 # 885909457618	i pad
+3	qid:61	 # 885909457588	i pad
+3	qid:61	 # 92636260712	i pad
+3	qid:61	 # 885909457595	i pad
+2	qid:61	 # 885909470440	i pad
+2	qid:61	 # 885909457625	i pad
+2	qid:61	 # 722868802403	i pad
+3	qid:61	 # 885909470396	i pad
+3	qid:61	 # 885909457632	i pad
+2	qid:61	 # 650450115955	i pad
+2	qid:61	 # 883974845064	i pad
+2	qid:61	 # 722868830062	i pad
+2	qid:61	 # 885909471546	i pad
+2	qid:61	 # 884116069973	i pad
+2	qid:61	 # 886111287055	i pad
+2	qid:61	 # 885909393404	i pad
+2	qid:61	 # 3700546700026	i pad
+2	qid:61	 # 99802970796	i pad
+2	qid:61	 # 821793013776	i pad
+2	qid:61	 # 885909471812	i pad
+2	qid:61	 # 843404073153	i pad
+1	qid:61	 # 47532896084	i pad
+2	qid:61	 # 47532896053	i pad
+2	qid:61	 # 635753493559	i pad
+1	qid:61	 # 885909457601	i pad
+1	qid:61	 # 722868802410	i pad
+1	qid:61	 # 650450116167	i pad
+4	qid:62	 # 883929161881	madden 12
+3	qid:62	 # 36725235564	madden 12
+2	qid:62	 # 662248910390	madden 12
+2	qid:62	 # 14633196870	madden 12
+2	qid:62	 # 14633196467	madden 12
+2	qid:62	 # 14633196917	madden 12
+2	qid:62	 # 20626728515	madden 12
+2	qid:62	 # 602517943698	madden 12
+2	qid:62	 # 50694479798	madden 12
+3	qid:62	 # 722674150040	madden 12
+2	qid:62	 # 14633196924	madden 12
+2	qid:62	 # 885370332889	madden 12
+2	qid:62	 # 45496719357	madden 12
+2	qid:62	 # 14633196474	madden 12
+2	qid:62	 # 711719807803	madden 12
+2	qid:62	 # 14633196412	madden 12
+2	qid:62	 # 711719831105	madden 12
+2	qid:62	 # 636926026918	madden 12
+2	qid:62	 # 711719810322	madden 12
+2	qid:62	 # 886541253385	madden 12
+2	qid:62	 # 14633196702	madden 12
+1	qid:62	 # 719192579545	madden 12
+1	qid:62	 # 14633195927	madden 12
+1	qid:62	 # 886111962129	madden 12
+2	qid:62	 # 602527791494	madden 12
+3	qid:63	 # 885909528936	iphone 4s
+3	qid:63	 # 885909528905	iphone 4s
+2	qid:63	 # 844702007192	iphone 4s
+2	qid:63	 # 885909538096	iphone 4s
+1	qid:63	 # 885909528851	iphone 4s
+1	qid:63	 # 885909459841	iphone 4s
+1	qid:63	 # 885909538065	iphone 4s
+1	qid:63	 # 885909528950	iphone 4s
+1	qid:63	 # 844702007178	iphone 4s
+1	qid:63	 # 885909459865	iphone 4s
+1	qid:63	 # 885909528943	iphone 4s
+1	qid:63	 # 885909394494	iphone 4s
+1	qid:63	 # 885909528929	iphone 4s
+1	qid:63	 # 885909538041	iphone 4s
+1	qid:63	 # 816050010292	iphone 4s
+1	qid:63	 # 885909538058	iphone 4s
+1	qid:63	 # 885909528875	iphone 4s
+1	qid:63	 # 885909343874	iphone 4s
+1	qid:63	 # 885909528912	iphone 4s
+1	qid:63	 # 635753493481	iphone 4s
+0	qid:63	 # 811275015237	iphone 4s
+0	qid:63	 # 885909538034	iphone 4s
+0	qid:63	 # 885909538027	iphone 4s
+0	qid:63	 # 885909459858	iphone 4s
+0	qid:63	 # 885909459834	iphone 4s
+0	qid:63	 # 816050010278	iphone 4s
+0	qid:63	 # 816050010230	iphone 4s
+0	qid:63	 # 816050010186	iphone 4s
+0	qid:63	 # 660543009689	iphone 4s
+0	qid:63	 # 628905006271	iphone 4s
+3	qid:64	 # 24543559856	star wars blu ray
+6	qid:64	 # 24543742180	star wars blu ray
+3	qid:64	 # 723755000254	star wars blu ray
+4	qid:64	 # 24543742074	star wars blu ray
+3	qid:64	 # 24543742098	star wars blu ray
+3	qid:64	 # 400032015667	star wars blu ray
+3	qid:64	 # 883929205561	star wars blu ray
+2	qid:64	 # 883929153992	star wars blu ray
+2	qid:64	 # 84691172727	star wars blu ray
+2	qid:64	 # 886111287055	star wars blu ray
+2	qid:64	 # 886112201586	star wars blu ray
+2	qid:64	 # 883929191628	star wars blu ray
+1	qid:64	 # 848447000050	star wars blu ray
+2	qid:64	 # 885909472376	star wars blu ray
+2	qid:64	 # 883929201143	star wars blu ray
+2	qid:64	 # 883929200917	star wars blu ray
+1	qid:64	 # 24543560067	star wars blu ray
+1	qid:64	 # 97360810042	star wars blu ray
+2	qid:64	 # 884116069973	star wars blu ray
+2	qid:64	 # 25192107238	star wars blu ray
+3	qid:65	 # 25195038416	fast five
+3	qid:65	 # 18771883920	fast five
+4	qid:65	 # 25192119248	fast five
+3	qid:65	 # 799759009432	fast five
+2	qid:65	 # 25192076480	fast five
+1	qid:65	 # 786936812459	fast five
+1	qid:65	 # 25192107191	fast five
+2	qid:65	 # 25192111488	fast five
+1	qid:65	 # 786936817218	fast five
+1	qid:65	 # 25192122644	fast five
+1	qid:65	 # 786936815115	fast five
+2	qid:65	 # 97361459844	fast five
+1	qid:65	 # 97360810042	fast five
+1	qid:65	 # 97363560449	fast five
+1	qid:65	 # 812715012595	fast five
+1	qid:65	 # 786936818918	fast five
+1	qid:65	 # 30206708820	fast five
+1	qid:65	 # 400031470375	fast five
+1	qid:65	 # 8888166719	fast five
+1	qid:65	 # 780163417326	fast five
+1	qid:65	 # 13132169699	fast five
+1	qid:65	 # 24543750949	fast five
+1	qid:65	 # 24543742180	fast five
+0	qid:65	 # 10343874084	fast five
+0	qid:65	 # 31398134848	fast five
+0	qid:65	 # 25192100291	fast five
+0	qid:65	 # 25192076251	fast five
+0	qid:65	 # 24543771807	fast five
+1	qid:65	 # 19048192493	fast five
+4	qid:66	 # 726947109728	cable modem
+3	qid:66	 # 612572180402	cable modem
+2	qid:66	 # 612572186237	cable modem
+2	qid:66	 # 606449081305	cable modem
+2	qid:66	 # 789286806963	cable modem
+2	qid:66	 # 666947009881	cable modem
+2	qid:66	 # 726947108431	cable modem
+1	qid:66	 # 812320003605	cable modem
+1	qid:66	 # 612572171585	cable modem
+1	qid:66	 # 649496014568	cable modem
+1	qid:66	 # 606449067279	cable modem
+1	qid:66	 # 745883593972	cable modem
+1	qid:66	 # 726947110717	cable modem
+1	qid:66	 # 44476814686	cable modem
+1	qid:66	 # 649496012397	cable modem
+1	qid:66	 # 745883592357	cable modem
+1	qid:66	 # 606449062311	cable modem
+1	qid:66	 # 789286807717	cable modem
+1	qid:66	 # 726947110649	cable modem
+1	qid:66	 # 879198003649	cable modem
+1	qid:66	 # 711868000056	cable modem
+1	qid:66	 # 789286807731	cable modem
+1	qid:66	 # 666947009607	cable modem
+1	qid:66	 # 606449066128	cable modem
+1	qid:66	 # 789286806536	cable modem
+0	qid:66	 # 606449059151	cable modem
+0	qid:66	 # 649496016579	cable modem
+0	qid:66	 # 883929106127	cable modem
+0	qid:66	 # 764964410489	cable modem
+3	qid:67	 # 47875840041	ps3 console
+6	qid:67	 # 711719842309	ps3 console
+3	qid:67	 # 602527394527	ps3 console
+3	qid:67	 # 743840830702	ps3 console
+3	qid:67	 # 47875843677	ps3 console
+3	qid:67	 # 711719831105	ps3 console
+3	qid:67	 # 47875843660	ps3 console
+2	qid:67	 # 47875842120	ps3 console
+2	qid:67	 # 741027314847	ps3 console
+2	qid:67	 # 711719842408	ps3 console
+2	qid:67	 # 687967132137	ps3 console
+3	qid:67	 # 711719984382	ps3 console
+2	qid:67	 # 36725608511	ps3 console
+3	qid:67	 # 663296416087	ps3 console
+2	qid:67	 # 711719807803	ps3 console
+2	qid:67	 # 711719804703	ps3 console
+2	qid:67	 # 659846419042	ps3 console
+2	qid:67	 # 58465768294	ps3 console
+1	qid:67	 # 711719836704	ps3 console
+2	qid:67	 # 708056063696	ps3 console
+1	qid:67	 # 656292903392	ps3 console
+2	qid:67	 # 36725234864	ps3 console
+2	qid:67	 # 93155117440	ps3 console
+2	qid:67	 # 718037753171	ps3 console
+2	qid:67	 # 14633169546	ps3 console
+0	qid:67	 # 711719220312	ps3 console
+2	qid:67	 # 711719804604	ps3 console
+2	qid:67	 # 635753490879	ps3 console
+2	qid:67	 # 635753489330	ps3 console
+2	qid:67	 # 615104118997	ps3 console
+4	qid:68	 # 635753494358	galaxy tab
+3	qid:68	 # 885909457588	galaxy tab
+3	qid:68	 # 886111287055	galaxy tab
+3	qid:68	 # 635753486988	galaxy tab
+3	qid:68	 # 635753494334	galaxy tab
+3	qid:68	 # 635753493559	galaxy tab
+3	qid:68	 # 843404076215	galaxy tab
+2	qid:68	 # 635753490879	galaxy tab
+2	qid:68	 # 722868837245	galaxy tab
+2	qid:68	 # 722868837290	galaxy tab
+2	qid:68	 # 635753493566	galaxy tab
+2	qid:68	 # 723755000018	galaxy tab
+2	qid:68	 # 635753492576	galaxy tab
+2	qid:68	 # 843404075713	galaxy tab
+1	qid:68	 # 716829772249	galaxy tab
+3	qid:68	 # 813580016374	galaxy tab
+2	qid:68	 # 813774012700	galaxy tab
+2	qid:68	 # 635753493542	galaxy tab
+2	qid:68	 # 843404066766	galaxy tab
+2	qid:68	 # 635753493573	galaxy tab
+1	qid:68	 # 85896393047	galaxy tab
+1	qid:68	 # 635753492569	galaxy tab
+2	qid:68	 # 635753492590	galaxy tab
+1	qid:68	 # 821793013776	galaxy tab
+1	qid:68	 # 813580016541	galaxy tab
+2	qid:68	 # 635753495713	galaxy tab
+1	qid:68	 # 722868838969	galaxy tab
+1	qid:68	 # 813774012762	galaxy tab
+1	qid:68	 # 635753495720	galaxy tab
+1	qid:68	 # 885909393404	galaxy tab
+3	qid:69	 # 24543750949	lion king
+3	qid:69	 # 97361459844	lion king
+2	qid:69	 # 786936812459	lion king
+2	qid:69	 # 786936818918	lion king
+3	qid:69	 # 25192866425	lion king
+2	qid:69	 # 50087157975	lion king
+2	qid:69	 # 786936815153	lion king
+2	qid:69	 # 400031470375	lion king
+2	qid:69	 # 786936815139	lion king
+1	qid:69	 # 786936812428	lion king
+1	qid:69	 # 786936222180	lion king
+1	qid:69	 # 786936815115	lion king
+2	qid:69	 # 24543725671	lion king
+1	qid:69	 # 50087242091	lion king
+1	qid:69	 # 97363560449	lion king
+2	qid:69	 # 631595102178	lion king
+1	qid:69	 # 97360810042	lion king
+2	qid:69	 # 686340260535	lion king
+1	qid:69	 # 400031470559	lion king
+1	qid:69	 # 50086012473	lion king
+1	qid:69	 # 25192119248	lion king
+1	qid:69	 # 786936793260	lion king
+0	qid:69	 # 400032015667	lion king
+0	qid:69	 # 31398144359	lion king
+1	qid:69	 # 786936210958	lion king
+1	qid:69	 # 25192102707	lion king
+0	qid:69	 # 24543597650	lion king
+1	qid:69	 # 14633169522	lion king
+3	qid:70	 # 885909398577	playbook
+3	qid:70	 # 635753493559	playbook
+3	qid:70	 # 843163074699	playbook
+3	qid:70	 # 843163074682	playbook
+3	qid:70	 # 843163074705	playbook
+3	qid:70	 # 886111287055	playbook
+3	qid:70	 # 85896393047	playbook
+2	qid:70	 # 885909457595	playbook
+3	qid:70	 # 843163090606	playbook
+3	qid:70	 # 843967071764	playbook
+2	qid:70	 # 843163089051	playbook
+2	qid:70	 # 885909457588	playbook
+2	qid:70	 # 610839379408	playbook
+2	qid:70	 # 843163088702	playbook
+2	qid:70	 # 635753493573	playbook
+2	qid:70	 # 843163088641	playbook
+2	qid:70	 # 884116069973	playbook
+2	qid:70	 # 723755000018	playbook
+2	qid:70	 # 44701016250	playbook
+2	qid:70	 # 635753490879	playbook
+1	qid:70	 # 813774012700	playbook
+2	qid:70	 # 848447000074	playbook
+1	qid:70	 # 716829772249	playbook
+2	qid:70	 # 843404076567	playbook
+1	qid:70	 # 652810116862	playbook
+2	qid:70	 # 46838043963	playbook
+1	qid:70	 # 27242800205	playbook
+1	qid:70	 # 723755000605	playbook
+0	qid:70	 # 843163089211	playbook
+1	qid:70	 # 885909497249	playbook
+3	qid:71	 # 97855070906	mac mini
+4	qid:71	 # 885909455386	mac mini
+3	qid:71	 # 610839384211	mac mini
+4	qid:71	 # 885909455621	mac mini
+3	qid:71	 # 885909459858	mac mini
+3	qid:71	 # 711719220312	mac mini
+3	qid:71	 # 885909400508	mac mini
+3	qid:71	 # 886111529858	mac mini
+2	qid:71	 # 766907439526	mac mini
+2	qid:71	 # 885370222579	mac mini
+2	qid:71	 # 884483805051	mac mini
+2	qid:71	 # 85391161059	mac mini
+1	qid:71	 # 645743515970	mac mini
+2	qid:71	 # 705487181371	mac mini
+2	qid:71	 # 729507816449	mac mini
+2	qid:71	 # 610839379408	mac mini
+2	qid:71	 # 17817392815	mac mini
+2	qid:71	 # 885909283385	mac mini
+2	qid:71	 # 99802944223	mac mini
+2	qid:71	 # 645743796782	mac mini
+1	qid:71	 # 99802367503	mac mini
+2	qid:71	 # 885909436002	mac mini
+1	qid:71	 # 885909270354	mac mini
+1	qid:71	 # 85393894825	mac mini
+2	qid:71	 # 886111962129	mac mini
+1	qid:71	 # 884116032915	mac mini
+1	qid:71	 # 886111850846	mac mini
+1	qid:71	 # 884483537631	mac mini
+2	qid:71	 # 21200507038	mac mini
+1	qid:71	 # 705487182910	mac mini
+3	qid:72	 # 24543750949	lion king
+3	qid:72	 # 97361459844	lion king
+2	qid:72	 # 786936812459	lion king
+2	qid:72	 # 786936818918	lion king
+3	qid:72	 # 25192866425	lion king
+2	qid:72	 # 50087157975	lion king
+2	qid:72	 # 786936815153	lion king
+2	qid:72	 # 400031470375	lion king
+2	qid:72	 # 786936815139	lion king
+1	qid:72	 # 786936812428	lion king
+1	qid:72	 # 786936222180	lion king
+1	qid:72	 # 786936815115	lion king
+2	qid:72	 # 24543725671	lion king
+1	qid:72	 # 50087242091	lion king
+1	qid:72	 # 97363560449	lion king
+2	qid:72	 # 631595102178	lion king
+1	qid:72	 # 97360810042	lion king
+2	qid:72	 # 686340260535	lion king
+1	qid:72	 # 400031470559	lion king
+1	qid:72	 # 50086012473	lion king
+1	qid:72	 # 25192119248	lion king
+1	qid:72	 # 786936793260	lion king
+0	qid:72	 # 400032015667	lion king
+0	qid:72	 # 31398144359	lion king
+1	qid:72	 # 786936210958	lion king
+1	qid:72	 # 25192102707	lion king
+0	qid:72	 # 24543597650	lion king
+1	qid:72	 # 14633169522	lion king
+3	qid:73	 # 36725235564	xmen first class
+5	qid:73	 # 24543750949	xmen first class
+3	qid:73	 # 885370145618	xmen first class
+3	qid:73	 # 97361455044	xmen first class
+4	qid:73	 # 24543750871	xmen first class
+3	qid:73	 # 619659028299	xmen first class
+2	qid:73	 # 885909377794	xmen first class
+2	qid:73	 # 25192112317	xmen first class
+2	qid:73	 # 25192076251	xmen first class
+2	qid:73	 # 886111783908	xmen first class
+2	qid:73	 # 786936805604	xmen first class
+2	qid:73	 # 886979245129	xmen first class
+2	qid:73	 # 786936815115	xmen first class
+1	qid:73	 # 24543559856	xmen first class
+2	qid:73	 # 24543730330	xmen first class
+1	qid:73	 # 751492478555	xmen first class
+2	qid:73	 # 97361455143	xmen first class
+1	qid:73	 # 74000373099	xmen first class
+6	qid:74	 # 50644614705	beats by dre
+4	qid:74	 # 50644577048	beats by dre
+3	qid:74	 # 50644561337	beats by dre
+2	qid:74	 # 50644600470	beats by dre
+2	qid:74	 # 848447000258	beats by dre
+2	qid:74	 # 848447000050	beats by dre
+2	qid:74	 # 848447000036	beats by dre
+2	qid:74	 # 50644579523	beats by dre
+2	qid:74	 # 848447000043	beats by dre
+2	qid:74	 # 848447000074	beats by dre
+2	qid:74	 # 848447000142	beats by dre
+2	qid:74	 # 848447000180	beats by dre
+1	qid:74	 # 848447000265	beats by dre
+1	qid:74	 # 50644556647	beats by dre
+1	qid:74	 # 50644632167	beats by dre
+2	qid:74	 # 848447000081	beats by dre
+1	qid:74	 # 848447000173	beats by dre
+1	qid:74	 # 848447000296	beats by dre
+1	qid:74	 # 848447000005	beats by dre
+1	qid:74	 # 848447000999	beats by dre
+1	qid:74	 # 870143005626	beats by dre
+1	qid:74	 # 848447000029	beats by dre
+1	qid:74	 # 50644577055	beats by dre
+1	qid:74	 # 50644587771	beats by dre
+1	qid:74	 # 848447000135	beats by dre
+1	qid:74	 # 886111334483	beats by dre
+0	qid:74	 # 615104140707	beats by dre
+0	qid:74	 # 723755894396	beats by dre
+0	qid:74	 # 615104099692	beats by dre
+3	qid:75	 # 736211602183	tablet
+3	qid:75	 # 610839379415	tablet
+3	qid:75	 # 814916014385	tablet
+3	qid:75	 # 883974814251	tablet
+3	qid:75	 # 821793013776	tablet
+3	qid:75	 # 635753493559	tablet
+3	qid:75	 # 716829782446	tablet
+3	qid:75	 # 884483917488	tablet
+2	qid:75	 # 718037753171	tablet
+2	qid:75	 # 723755000018	tablet
+2	qid:75	 # 886111271283	tablet
+2	qid:75	 # 708431322004	tablet
+2	qid:75	 # 27242798236	tablet
+2	qid:75	 # 635753494358	tablet
+2	qid:75	 # 37648326445	tablet
+2	qid:75	 # 885909471812	tablet
+2	qid:75	 # 667208713219	tablet
+2	qid:75	 # 635753493573	tablet
+2	qid:75	 # 708431324008	tablet
+2	qid:75	 # 610839379408	tablet
+2	qid:75	 # 847275000065	tablet
+2	qid:75	 # 843967071764	tablet
+1	qid:75	 # 885909457588	tablet
+1	qid:75	 # 723755000605	tablet
+2	qid:75	 # 885909457595	tablet
+1	qid:75	 # 846154071813	tablet
+1	qid:75	 # 885909410521	tablet
+2	qid:75	 # 635753490879	tablet
+1	qid:75	 # 886111287055	tablet
+1	qid:75	 # 716829772249	tablet
+4	qid:76	 # 726947109728	cable modem
+3	qid:76	 # 612572180402	cable modem
+2	qid:76	 # 612572186237	cable modem
+2	qid:76	 # 606449081305	cable modem
+2	qid:76	 # 789286806963	cable modem
+2	qid:76	 # 666947009881	cable modem
+2	qid:76	 # 726947108431	cable modem
+1	qid:76	 # 812320003605	cable modem
+1	qid:76	 # 612572171585	cable modem
+1	qid:76	 # 649496014568	cable modem
+1	qid:76	 # 606449067279	cable modem
+1	qid:76	 # 745883593972	cable modem
+1	qid:76	 # 726947110717	cable modem
+1	qid:76	 # 44476814686	cable modem
+1	qid:76	 # 649496012397	cable modem
+1	qid:76	 # 745883592357	cable modem
+1	qid:76	 # 606449062311	cable modem
+1	qid:76	 # 789286807717	cable modem
+1	qid:76	 # 726947110649	cable modem
+1	qid:76	 # 879198003649	cable modem
+1	qid:76	 # 711868000056	cable modem
+1	qid:76	 # 789286807731	cable modem
+1	qid:76	 # 666947009607	cable modem
+1	qid:76	 # 606449066128	cable modem
+1	qid:76	 # 789286806536	cable modem
+0	qid:76	 # 606449059151	cable modem
+0	qid:76	 # 649496016579	cable modem
+0	qid:76	 # 883929106127	cable modem
+0	qid:76	 # 764964410489	cable modem
+3	qid:77	 # 815772010337	slingbox
+4	qid:77	 # 852619001448	slingbox
+3	qid:77	 # 852619001585	slingbox
+3	qid:77	 # 785428011929	slingbox
+2	qid:77	 # 86429019281	slingbox
+2	qid:77	 # 97855070906	slingbox
+2	qid:77	 # 719192582071	slingbox
+2	qid:77	 # 42976913175	slingbox
+1	qid:77	 # 29521831856	slingbox
+1	qid:77	 # 29757178022	slingbox
+1	qid:77	 # 74345174504	slingbox
+2	qid:77	 # 93624966807	slingbox
+1	qid:77	 # 745883592388	slingbox
+1	qid:77	 # 723755811416	slingbox
+1	qid:77	 # 36725734005	slingbox
+1	qid:77	 # 610839350759	slingbox
+1	qid:77	 # 48894038778	slingbox
+1	qid:77	 # 24543742180	slingbox
+1	qid:77	 # 610214626097	slingbox
+1	qid:77	 # 13803133783	slingbox
+1	qid:77	 # 789270004450	slingbox
+1	qid:77	 # 790069335631	slingbox
+1	qid:77	 # 705176892885	slingbox
+1	qid:77	 # 718037765112	slingbox
+1	qid:77	 # 8811201722	slingbox
+1	qid:77	 # 722868818916	slingbox
+1	qid:77	 # 745883593262	slingbox
+0	qid:77	 # 31398114420	slingbox
+1	qid:77	 # 786936817218	slingbox
+1	qid:77	 # 8811195328	slingbox
+4	qid:78	 # 883929161898	batman
+4	qid:78	 # 711719823322	batman
+3	qid:78	 # 883929161881	batman
+3	qid:78	 # 81227987909	batman
+2	qid:78	 # 752073013165	batman
+2	qid:78	 # 883929166770	batman
+2	qid:78	 # 812726013994	batman
+2	qid:78	 # 738572127626	batman
+2	qid:78	 # 8712177054442	batman
+2	qid:78	 # 752073013417	batman
+2	qid:78	 # 883929212606	batman
+2	qid:78	 # 12569594159	batman
+2	qid:78	 # 883929208623	batman
+3	qid:78	 # 883929216796	batman
+2	qid:78	 # 883929216789	batman
+2	qid:78	 # 883929250059	batman
+2	qid:78	 # 85393189624	batman
+1	qid:78	 # 788687501088	batman
+2	qid:78	 # 794043154423	batman
+2	qid:78	 # 883929101061	batman
+2	qid:78	 # 93155117624	batman
+2	qid:78	 # 883929073597	batman
+1	qid:78	 # 93573740725	batman
+1	qid:78	 # 883929213146	batman
+2	qid:78	 # 883929191772	batman
+1	qid:78	 # 883929184088	batman
+1	qid:78	 # 14381068122	batman
+1	qid:78	 # 617885961755	batman
+1	qid:78	 # 85393162528	batman
+1	qid:78	 # 14633195866	batman
+3	qid:79	 # 848447000159	beats
+2	qid:79	 # 50644561337	beats
+2	qid:79	 # 848447000265	beats
+2	qid:79	 # 848447000050	beats
+1	qid:79	 # 50644614705	beats
+1	qid:79	 # 848447000074	beats
+1	qid:79	 # 848447000258	beats
+1	qid:79	 # 848447000142	beats
+1	qid:79	 # 848447000296	beats
+1	qid:79	 # 50644600470	beats
+1	qid:79	 # 848447000173	beats
+1	qid:79	 # 50644579523	beats
+1	qid:79	 # 50644577055	beats
+1	qid:79	 # 723755894396	beats
+1	qid:79	 # 848447000135	beats
+1	qid:79	 # 848447000036	beats
+1	qid:79	 # 81227761721	beats
+1	qid:79	 # 848447000043	beats
+1	qid:79	 # 50644556647	beats
+1	qid:79	 # 848447000180	beats
+1	qid:79	 # 848447000081	beats
+0	qid:79	 # 848447000029	beats
+0	qid:79	 # 50644587771	beats
+1	qid:79	 # 50644577048	beats
+0	qid:79	 # 50644632167	beats
+0	qid:79	 # 848447000005	beats
+0	qid:79	 # 615104140707	beats
+0	qid:79	 # 848447000999	beats
+0	qid:79	 # 854381003002	beats
+4	qid:80	 # 10343877917	projector
+4	qid:80	 # 10343884175	projector
+2	qid:80	 # 727701861821	projector
+2	qid:80	 # 796435811433	projector
+2	qid:80	 # 10343874084	projector
+1	qid:80	 # 796435811310	projector
+1	qid:80	 # 827396516331	projector
+2	qid:80	 # 796435411572	projector
+1	qid:80	 # 717068562134	projector
+2	qid:80	 # 10343877900	projector
+1	qid:80	 # 796435411718	projector
+1	qid:80	 # 796435416621	projector
+1	qid:80	 # 793795360472	projector
+1	qid:80	 # 640282001564	projector
+1	qid:80	 # 796435811037	projector
+1	qid:80	 # 796435411411	projector
+1	qid:80	 # 814964335692	projector
+1	qid:80	 # 796435411404	projector
+1	qid:80	 # 74000374041	projector
+1	qid:80	 # 10343884168	projector
+1	qid:80	 # 18208262786	projector
+1	qid:80	 # 796435416638	projector
+1	qid:80	 # 10343877924	projector
+1	qid:80	 # 10343880092	projector
+1	qid:80	 # 619981138420	projector
+1	qid:80	 # 803341317949	projector
+1	qid:80	 # 796435417215	projector
+1	qid:80	 # 10343878419	projector
+1	qid:80	 # 796435411725	projector
+0	qid:80	 # 10343884151	projector
+4	qid:81	 # 785428011912	dvr
+4	qid:81	 # 718037762906	dvr
+4	qid:81	 # 778597004601	dvr
+3	qid:81	 # 851342000919	dvr
+3	qid:81	 # 5060241170455	dvr
+3	qid:81	 # 778597014648	dvr
+3	qid:81	 # 27242807303	dvr
+3	qid:81	 # 53818570999	dvr
+3	qid:81	 # 681066997956	dvr
+2	qid:81	 # 885909410521	dvr
+2	qid:81	 # 37988256631	dvr
+2	qid:81	 # 851342000865	dvr
+1	qid:81	 # 22265003190	dvr
+2	qid:81	 # 884938127356	dvr
+2	qid:81	 # 814282011988	dvr
+2	qid:81	 # 705105160177	dvr
+2	qid:81	 # 22265002117	dvr
+1	qid:81	 # 97855070906	dvr
+2	qid:81	 # 851342000933	dvr
+1	qid:81	 # 814282012657	dvr
+2	qid:81	 # 724643114503	dvr
+2	qid:81	 # 851342000902	dvr
+2	qid:81	 # 613570226659	dvr
+1	qid:81	 # 853748001101	dvr
+1	qid:81	 # 851342000858	dvr
+1	qid:81	 # 22265002223	dvr
+1	qid:81	 # 681066796962	dvr
+1	qid:81	 # 53818571187	dvr
+1	qid:81	 # 635753490541	dvr
+1	qid:81	 # 778597200003	dvr
+3	qid:82	 # 47875761735	wii
+5	qid:82	 # 744476380081	wii
+3	qid:82	 # 45496901691	wii
+4	qid:82	 # 96427016878	wii
+3	qid:82	 # 8888196778	wii
+3	qid:82	 # 785138303673	wii
+3	qid:82	 # 45496901905	wii
+3	qid:82	 # 744476380074	wii
+2	qid:82	 # 45496902322	wii
+3	qid:82	 # 743195937415	wii
+3	qid:82	 # 794017312828	wii
+2	qid:82	 # 45496901738	wii
+2	qid:82	 # 45496880620	wii
+2	qid:82	 # 45496890599	wii
+2	qid:82	 # 45496880491	wii
+2	qid:82	 # 45496880484	wii
+2	qid:82	 # 723755834491	wii
+2	qid:82	 # 802068103200	wii
+2	qid:82	 # 45496890612	wii
+2	qid:82	 # 743840870166	wii
+2	qid:82	 # 45496902001	wii
+3	qid:82	 # 8888175803	wii
+1	qid:82	 # 45496890636	wii
+1	qid:82	 # 47875843660	wii
+2	qid:82	 # 47875840058	wii
+2	qid:82	 # 45496890629	wii
+1	qid:82	 # 47875764040	wii
+1	qid:82	 # 45496890421	wii
+1	qid:82	 # 14633196351	wii
+1	qid:82	 # 45496902612	wii
+3	qid:83	 # 635753493559	ipad 2
+2	qid:83	 # 885909471201	ipad 2
+1	qid:83	 # 685387352913	ipad 2
+2	qid:83	 # 885909472376	ipad 2
+2	qid:83	 # 885909470396	ipad 2
+1	qid:83	 # 92636260705	ipad 2
+1	qid:83	 # 885909471546	ipad 2
+1	qid:83	 # 885909457588	ipad 2
+1	qid:83	 # 21331374011	ipad 2
+1	qid:83	 # 92636260712	ipad 2
+1	qid:83	 # 886111287055	ipad 2
+1	qid:83	 # 722868830062	ipad 2
+1	qid:83	 # 885909457595	ipad 2
+1	qid:83	 # 650450115955	ipad 2
+1	qid:83	 # 885909457625	ipad 2
+1	qid:83	 # 885909457601	ipad 2
+1	qid:83	 # 885909435265	ipad 2
+1	qid:83	 # 885909471812	ipad 2
+1	qid:83	 # 885909470440	ipad 2
+1	qid:83	 # 885909472925	ipad 2
+1	qid:83	 # 610839379408	ipad 2
+1	qid:83	 # 33991032903	ipad 2
+0	qid:83	 # 885909457632	ipad 2
+0	qid:83	 # 885909393404	ipad 2
+0	qid:83	 # 843404073153	ipad 2
+1	qid:83	 # 885909457618	ipad 2
+1	qid:83	 # 660543008811	ipad 2
+0	qid:83	 # 885909470860	ipad 2
+0	qid:83	 # 885909436705	ipad 2
+0	qid:83	 # 885909470402	ipad 2
+3	qid:84	 # 635753493559	ipad 2
+2	qid:84	 # 885909471201	ipad 2
+1	qid:84	 # 685387352913	ipad 2
+2	qid:84	 # 885909472376	ipad 2
+2	qid:84	 # 885909470396	ipad 2
+1	qid:84	 # 92636260705	ipad 2
+1	qid:84	 # 885909471546	ipad 2
+1	qid:84	 # 885909457588	ipad 2
+1	qid:84	 # 21331374011	ipad 2
+1	qid:84	 # 92636260712	ipad 2
+1	qid:84	 # 886111287055	ipad 2
+1	qid:84	 # 722868830062	ipad 2
+1	qid:84	 # 885909457595	ipad 2
+1	qid:84	 # 650450115955	ipad 2
+1	qid:84	 # 885909457625	ipad 2
+1	qid:84	 # 885909457601	ipad 2
+1	qid:84	 # 885909435265	ipad 2
+1	qid:84	 # 885909471812	ipad 2
+1	qid:84	 # 885909470440	ipad 2
+1	qid:84	 # 885909472925	ipad 2
+1	qid:84	 # 610839379408	ipad 2
+1	qid:84	 # 33991032903	ipad 2
+0	qid:84	 # 885909457632	ipad 2
+0	qid:84	 # 885909393404	ipad 2
+0	qid:84	 # 843404073153	ipad 2
+1	qid:84	 # 885909457618	ipad 2
+1	qid:84	 # 660543008811	ipad 2
+0	qid:84	 # 885909470860	ipad 2
+0	qid:84	 # 885909436705	ipad 2
+0	qid:84	 # 885909470402	ipad 2
+4	qid:85	 # 10343877917	projector
+4	qid:85	 # 10343884175	projector
+2	qid:85	 # 727701861821	projector
+2	qid:85	 # 796435811433	projector
+2	qid:85	 # 10343874084	projector
+1	qid:85	 # 796435811310	projector
+1	qid:85	 # 827396516331	projector
+2	qid:85	 # 796435411572	projector
+1	qid:85	 # 717068562134	projector
+2	qid:85	 # 10343877900	projector
+1	qid:85	 # 796435411718	projector
+1	qid:85	 # 796435416621	projector
+1	qid:85	 # 793795360472	projector
+1	qid:85	 # 640282001564	projector
+1	qid:85	 # 796435811037	projector
+1	qid:85	 # 796435411411	projector
+1	qid:85	 # 814964335692	projector
+1	qid:85	 # 796435411404	projector
+1	qid:85	 # 74000374041	projector
+1	qid:85	 # 10343884168	projector
+1	qid:85	 # 18208262786	projector
+1	qid:85	 # 796435416638	projector
+1	qid:85	 # 10343877924	projector
+1	qid:85	 # 10343880092	projector
+1	qid:85	 # 619981138420	projector
+1	qid:85	 # 803341317949	projector
+1	qid:85	 # 796435417215	projector
+1	qid:85	 # 10343878419	projector
+1	qid:85	 # 796435411725	projector
+0	qid:85	 # 10343884151	projector
+4	qid:86	 # 606449081305	modem
+3	qid:86	 # 666947009294	modem
+3	qid:86	 # 726947109728	modem
+4	qid:86	 # 726947110717	modem
+3	qid:86	 # 789286806536	modem
+3	qid:86	 # 764964410489	modem
+2	qid:86	 # 666947009607	modem
+2	qid:86	 # 764964410564	modem
+2	qid:86	 # 745883593972	modem
+2	qid:86	 # 726947110649	modem
+2	qid:86	 # 745883592357	modem
+2	qid:86	 # 789286806840	modem
+2	qid:86	 # 612572171585	modem
+2	qid:86	 # 789286806963	modem
+2	qid:86	 # 612572186237	modem
+2	qid:86	 # 606449067279	modem
+2	qid:86	 # 789286807731	modem
+2	qid:86	 # 666947009881	modem
+2	qid:86	 # 606449062311	modem
+2	qid:86	 # 711868000056	modem
+2	qid:86	 # 726947108431	modem
+2	qid:86	 # 879198003649	modem
+2	qid:86	 # 44476814686	modem
+2	qid:86	 # 612572180402	modem
+2	qid:86	 # 649496014568	modem
+1	qid:86	 # 649496016579	modem
+1	qid:86	 # 610839063505	modem
+1	qid:86	 # 885909410521	modem
+1	qid:86	 # 606449066128	modem
+1	qid:86	 # 606449059151	modem
+3	qid:87	 # 885909457588	htc flyer
+4	qid:87	 # 886111287055	htc flyer
+3	qid:87	 # 884962753071	htc flyer
+3	qid:87	 # 821793013776	htc flyer
+2	qid:87	 # 723755000018	htc flyer
+2	qid:87	 # 821793012786	htc flyer
+1	qid:87	 # 645743954656	htc flyer
+2	qid:87	 # 886111684472	htc flyer
+2	qid:87	 # 718037751962	htc flyer
+1	qid:87	 # 716829772249	htc flyer
+1	qid:87	 # 635753493559	htc flyer
+2	qid:87	 # 635753486988	htc flyer
+1	qid:87	 # 847275000065	htc flyer
+2	qid:87	 # 27242827509	htc flyer
+1	qid:87	 # 27242754843	htc flyer
+1	qid:87	 # 36725734234	htc flyer
+1	qid:87	 # 843404074594	htc flyer
+1	qid:87	 # 85896393047	htc flyer
+1	qid:87	 # 723755922327	htc flyer
+1	qid:87	 # 763649031261	htc flyer
+0	qid:87	 # 814916014385	htc flyer
+1	qid:87	 # 635753490879	htc flyer
+1	qid:87	 # 610839364305	htc flyer
+1	qid:87	 # 843967071764	htc flyer
+1	qid:87	 # 635753493566	htc flyer
+1	qid:87	 # 883974814251	htc flyer
+1	qid:87	 # 884116033264	htc flyer
+1	qid:87	 # 27242830592	htc flyer
+1	qid:87	 # 635753492590	htc flyer
+3	qid:88	 # 885909528936	iphone 4s
+3	qid:88	 # 885909528905	iphone 4s
+2	qid:88	 # 844702007192	iphone 4s
+2	qid:88	 # 885909538096	iphone 4s
+1	qid:88	 # 885909528851	iphone 4s
+1	qid:88	 # 885909459841	iphone 4s
+1	qid:88	 # 885909538065	iphone 4s
+1	qid:88	 # 885909528950	iphone 4s
+1	qid:88	 # 844702007178	iphone 4s
+1	qid:88	 # 885909459865	iphone 4s
+1	qid:88	 # 885909528943	iphone 4s
+1	qid:88	 # 885909394494	iphone 4s
+1	qid:88	 # 885909528929	iphone 4s
+1	qid:88	 # 885909538041	iphone 4s
+1	qid:88	 # 816050010292	iphone 4s
+1	qid:88	 # 885909538058	iphone 4s
+1	qid:88	 # 885909528875	iphone 4s
+1	qid:88	 # 885909343874	iphone 4s
+1	qid:88	 # 885909528912	iphone 4s
+1	qid:88	 # 635753493481	iphone 4s
+0	qid:88	 # 811275015237	iphone 4s
+0	qid:88	 # 885909538034	iphone 4s
+0	qid:88	 # 885909538027	iphone 4s
+0	qid:88	 # 885909459858	iphone 4s
+0	qid:88	 # 885909459834	iphone 4s
+0	qid:88	 # 816050010278	iphone 4s
+0	qid:88	 # 816050010230	iphone 4s
+0	qid:88	 # 816050010186	iphone 4s
+0	qid:88	 # 660543009689	iphone 4s
+0	qid:88	 # 628905006271	iphone 4s
+3	qid:89	 # 25195038416	fast five
+3	qid:89	 # 18771883920	fast five
+4	qid:89	 # 25192119248	fast five
+3	qid:89	 # 799759009432	fast five
+2	qid:89	 # 25192076480	fast five
+1	qid:89	 # 786936812459	fast five
+1	qid:89	 # 25192107191	fast five
+2	qid:89	 # 25192111488	fast five
+1	qid:89	 # 786936817218	fast five
+1	qid:89	 # 25192122644	fast five
+1	qid:89	 # 786936815115	fast five
+2	qid:89	 # 97361459844	fast five
+1	qid:89	 # 97360810042	fast five
+1	qid:89	 # 97363560449	fast five
+1	qid:89	 # 812715012595	fast five
+1	qid:89	 # 786936818918	fast five
+1	qid:89	 # 30206708820	fast five
+1	qid:89	 # 400031470375	fast five
+1	qid:89	 # 8888166719	fast five
+1	qid:89	 # 780163417326	fast five
+1	qid:89	 # 13132169699	fast five
+1	qid:89	 # 24543750949	fast five
+1	qid:89	 # 24543742180	fast five
+0	qid:89	 # 10343874084	fast five
+0	qid:89	 # 31398134848	fast five
+0	qid:89	 # 25192100291	fast five
+0	qid:89	 # 25192076251	fast five
+0	qid:89	 # 24543771807	fast five
+1	qid:89	 # 19048192493	fast five
+3	qid:90	 # 708056579739	transformers 3
+4	qid:90	 # 47875841420	transformers 3
+3	qid:90	 # 97361459844	transformers 3
+3	qid:90	 # 883929161881	transformers 3
+3	qid:90	 # 97360810042	transformers 3
+2	qid:90	 # 47875839069	transformers 3
+3	qid:90	 # 25192107191	transformers 3
+2	qid:90	 # 708056579746	transformers 3
+2	qid:90	 # 97363560449	transformers 3
+2	qid:90	 # 25192119248	transformers 3
+2	qid:90	 # 786936817218	transformers 3
+2	qid:90	 # 47875819733	transformers 3
+1	qid:90	 # 24543725671	transformers 3
+2	qid:90	 # 879862003500	transformers 3
+2	qid:90	 # 711719220312	transformers 3
+2	qid:90	 # 826663114171	transformers 3
+2	qid:90	 # 47875841369	transformers 3
+1	qid:90	 # 883929163496	transformers 3
+2	qid:90	 # 883974845064	transformers 3
+2	qid:90	 # 47875842328	transformers 3
+2	qid:90	 # 27242828919	transformers 3
+2	qid:90	 # 47875841406	transformers 3
+2	qid:90	 # 93624956037	transformers 3
+2	qid:90	 # 786936811865	transformers 3
+1	qid:90	 # 97368939141	transformers 3
+1	qid:90	 # 826663125979	transformers 3
+1	qid:90	 # 97361435244	transformers 3
+2	qid:90	 # 884116051138	transformers 3
+4	qid:91	 # 738516345949	droid bionic
+7	qid:91	 # 723755000254	droid bionic
+3	qid:91	 # 610214626400	droid bionic
+3	qid:91	 # 886112201586	droid bionic
+3	qid:91	 # 899794006806	droid bionic
+3	qid:91	 # 884116069973	droid bionic
+3	qid:91	 # 635753490879	droid bionic
+3	qid:91	 # 885909457588	droid bionic
+3	qid:91	 # 723755000186	droid bionic
+2	qid:91	 # 884116061021	droid bionic
+2	qid:91	 # 660543009146	droid bionic
+2	qid:91	 # 843163073562	droid bionic
+2	qid:91	 # 610214627919	droid bionic
+2	qid:91	 # 50667098711	droid bionic
+2	qid:91	 # 44476816574	droid bionic
+2	qid:91	 # 27242808676	droid bionic
+2	qid:91	 # 29521843538	droid bionic
+0	qid:91	 # 635753490350	droid bionic
+2	qid:91	 # 660543005728	droid bionic
+4	qid:92	 # 886111287055	toshiba thrive
+3	qid:92	 # 883974772551	toshiba thrive
+3	qid:92	 # 883974814275	toshiba thrive
+3	qid:92	 # 883974814268	toshiba thrive
+3	qid:92	 # 610839379415	toshiba thrive
+3	qid:92	 # 883974814251	toshiba thrive
+3	qid:92	 # 635753493559	toshiba thrive
+2	qid:92	 # 883974731480	toshiba thrive
+2	qid:92	 # 883974772506	toshiba thrive
+3	qid:92	 # 723755000018	toshiba thrive
+2	qid:92	 # 883974731466	toshiba thrive
+2	qid:92	 # 884483917488	toshiba thrive
+2	qid:92	 # 885909457595	toshiba thrive
+2	qid:92	 # 885909471812	toshiba thrive
+2	qid:92	 # 885909457588	toshiba thrive
+2	qid:92	 # 883974762019	toshiba thrive
+2	qid:92	 # 883974687077	toshiba thrive
+1	qid:92	 # 36725235564	toshiba thrive
+2	qid:92	 # 93207074677	toshiba thrive
+2	qid:92	 # 716829772249	toshiba thrive
+2	qid:92	 # 610839364305	toshiba thrive
+2	qid:92	 # 883974772544	toshiba thrive
+1	qid:92	 # 22265004395	toshiba thrive
+1	qid:92	 # 27242830592	toshiba thrive
+2	qid:92	 # 635753490879	toshiba thrive
+2	qid:92	 # 635753493573	toshiba thrive
+1	qid:92	 # 610839379408	toshiba thrive
+2	qid:92	 # 716829701256	toshiba thrive
+1	qid:92	 # 685387327812	toshiba thrive
+4	qid:93	 # 46838046100	headphones
+4	qid:93	 # 848447000005	headphones
+3	qid:93	 # 27242740389	headphones
+3	qid:93	 # 723755894396	headphones
+3	qid:93	 # 50644587771	headphones
+3	qid:93	 # 27242708242	headphones
+3	qid:93	 # 743878021295	headphones
+2	qid:93	 # 17817542371	headphones
+2	qid:93	 # 855366002195	headphones
+2	qid:93	 # 609585214484	headphones
+2	qid:93	 # 878615043992	headphones
+2	qid:93	 # 27242741164	headphones
+2	qid:93	 # 878615035287	headphones
+2	qid:93	 # 27242626607	headphones
+2	qid:93	 # 50644579523	headphones
+2	qid:93	 # 21331350091	headphones
+2	qid:93	 # 17817553476	headphones
+2	qid:93	 # 878615044111	headphones
+2	qid:93	 # 50644614705	headphones
+1	qid:93	 # 848447000135	headphones
+2	qid:93	 # 885909412006	headphones
+1	qid:93	 # 878615025226	headphones
+1	qid:93	 # 615104173552	headphones
+2	qid:93	 # 878615035294	headphones
+1	qid:93	 # 27242798236	headphones
+1	qid:93	 # 709483027848	headphones
+1	qid:93	 # 27242745100	headphones
+1	qid:93	 # 27242807785	headphones
+1	qid:93	 # 848447000081	headphones
+1	qid:93	 # 27242801585	headphones
+3	qid:94	 # 821793013776	asus transformer
+3	qid:94	 # 610839364305	asus transformer
+3	qid:94	 # 85896393047	asus transformer
+4	qid:94	 # 610839379415	asus transformer
+3	qid:94	 # 843404075447	asus transformer
+3	qid:94	 # 610839379408	asus transformer
+3	qid:94	 # 5025743683087	asus transformer
+3	qid:94	 # 610839380671	asus transformer
+3	qid:94	 # 92636266738	asus transformer
+2	qid:94	 # 884483917488	asus transformer
+2	qid:94	 # 635753493559	asus transformer
+3	qid:94	 # 846154071813	asus transformer
+2	qid:94	 # 886227007790	asus transformer
+2	qid:94	 # 763649031261	asus transformer
+2	qid:94	 # 886111287055	asus transformer
+2	qid:94	 # 723755000018	asus transformer
+2	qid:94	 # 610839385973	asus transformer
+2	qid:94	 # 885909457588	asus transformer
+1	qid:94	 # 716829772249	asus transformer
+1	qid:94	 # 884840036494	asus transformer
+2	qid:94	 # 808068004332	asus transformer
+1	qid:94	 # 886541090898	asus transformer
+2	qid:94	 # 885909457595	asus transformer
+1	qid:94	 # 883974850921	asus transformer
+1	qid:94	 # 635753493573	asus transformer
+1	qid:94	 # 97855078292	asus transformer
+0	qid:94	 # 718037770642	asus transformer
+1	qid:94	 # 723755000605	asus transformer
+1	qid:94	 # 886111529858	asus transformer
+1	qid:94	 # 883974687077	asus transformer
+4	qid:95	 # 836182001418	virgin mobile
+3	qid:95	 # 836182001579	virgin mobile
+3	qid:95	 # 851427003408	virgin mobile
+3	qid:95	 # 836182002705	virgin mobile
+3	qid:95	 # 836182001593	virgin mobile
+3	qid:95	 # 836182004815	virgin mobile
+2	qid:95	 # 836182001609	virgin mobile
+2	qid:95	 # 836182004167	virgin mobile
+3	qid:95	 # 836182004884	virgin mobile
+2	qid:95	 # 836182001616	virgin mobile
+2	qid:95	 # 836182001890	virgin mobile
+2	qid:95	 # 836182004181	virgin mobile
+2	qid:95	 # 836182001814	virgin mobile
+2	qid:95	 # 836182002699	virgin mobile
+2	qid:95	 # 836182002507	virgin mobile
+2	qid:95	 # 836182001494	virgin mobile
+2	qid:95	 # 635753489330	virgin mobile
+2	qid:95	 # 821793018429	virgin mobile
+2	qid:95	 # 885909409945	virgin mobile
+2	qid:95	 # 836182001562	virgin mobile
+1	qid:95	 # 836182004174	virgin mobile
+1	qid:95	 # 635753494921	virgin mobile
+1	qid:95	 # 635753491074	virgin mobile
+2	qid:95	 # 836182004075	virgin mobile
+1	qid:95	 # 836182004082	virgin mobile
+1	qid:95	 # 652810116534	virgin mobile
+2	qid:95	 # 649496016678	virgin mobile
+1	qid:95	 # 836182004068	virgin mobile
+2	qid:95	 # 29521843545	virgin mobile
+2	qid:95	 # 27242800205	virgin mobile
+4	qid:96	 # 885909446421	imac
+2	qid:96	 # 885909400508	imac
+2	qid:96	 # 885909446070	imac
+2	qid:96	 # 604388729029	imac
+2	qid:96	 # 36725515949	imac
+2	qid:96	 # 885909445721	imac
+2	qid:96	 # 885909455621	imac
+1	qid:96	 # 885909455386	imac
+2	qid:96	 # 27242808386	imac
+2	qid:96	 # 602527681436	imac
+1	qid:96	 # 886111298112	imac
+1	qid:96	 # 36725234901	imac
+1	qid:96	 # 885909437023	imac
+1	qid:96	 # 885909436002	imac
+1	qid:96	 # 74000373105	imac
+1	qid:96	 # 885909457588	imac
+0	qid:96	 # 885909436705	imac
+1	qid:96	 # 24543742180	imac
+1	qid:96	 # 885909431618	imac
+1	qid:96	 # 35011887883	imac
+0	qid:96	 # 885370222579	imac
+1	qid:96	 # 99802944230	imac
+0	qid:96	 # 93573779886	imac
+1	qid:96	 # 36725235564	imac
+0	qid:96	 # 97361538242	imac
+1	qid:96	 # 47404659052	imac
+0	qid:96	 # 57112096933	imac
+0	qid:96	 # 99802956455	imac
+0	qid:96	 # 18208254729	imac
+4	qid:97	 # 24543701538	transformers dark of the moon
+6	qid:97	 # 97360810042	transformers dark of the moon
+3	qid:97	 # 884116069485	transformers dark of the moon
+3	qid:97	 # 786936817218	transformers dark of the moon
+3	qid:97	 # 97363560449	transformers dark of the moon
+3	qid:97	 # 27242827509	transformers dark of the moon
+3	qid:97	 # 36725235564	transformers dark of the moon
+2	qid:97	 # 47875841420	transformers dark of the moon
+2	qid:97	 # 44476821592	transformers dark of the moon
+2	qid:97	 # 25192107191	transformers dark of the moon
+3	qid:97	 # 47875841406	transformers dark of the moon
+2	qid:97	 # 97361459844	transformers dark of the moon
+2	qid:97	 # 47875842335	transformers dark of the moon
+2	qid:97	 # 47875841369	transformers dark of the moon
+2	qid:97	 # 97363532149	transformers dark of the moon
+2	qid:97	 # 400192926087	transformers dark of the moon
+2	qid:97	 # 47875842328	transformers dark of the moon
+1	qid:97	 # 24543750949	transformers dark of the moon
+2	qid:97	 # 93624956037	transformers dark of the moon
+2	qid:97	 # 24543750871	transformers dark of the moon
+3	qid:98	 # 22265004258	lcd tv
+1	qid:98	 # 22265004289	lcd tv
+0	qid:98	 # 729507813059	lcd tv
+1	qid:98	 # 883393003458	lcd tv
+0	qid:98	 # 36725234789	lcd tv
+0	qid:98	 # 882777064009	lcd tv
+0	qid:98	 # 884483335329	lcd tv
+0	qid:98	 # 36725236271	lcd tv
+1	qid:98	 # 97278016000	lcd tv
+0	qid:98	 # 812491010334	lcd tv
+0	qid:98	 # 74000373105	lcd tv
+0	qid:98	 # 827912068474	lcd tv
+0	qid:98	 # 605342041546	lcd tv
+0	qid:98	 # 827912072969	lcd tv
+0	qid:98	 # 812491010310	lcd tv
+0	qid:98	 # 696211503197	lcd tv
+0	qid:98	 # 885170042704	lcd tv
+0	qid:98	 # 27242817197	lcd tv
+0	qid:98	 # 882777064207	lcd tv
+0	qid:98	 # 885170042667	lcd tv
+0	qid:98	 # 13803112610	lcd tv
+0	qid:98	 # 827912068467	lcd tv
+0	qid:98	 # 729507810218	lcd tv
+0	qid:98	 # 17229133204	lcd tv
+0	qid:98	 # 719192579996	lcd tv
+0	qid:98	 # 36725235564	lcd tv
+0	qid:98	 # 22265004302	lcd tv
+0	qid:98	 # 723755834491	lcd tv
+4	qid:99	 # 753759097004	gps
+4	qid:99	 # 636926048583	gps
+4	qid:99	 # 763357123852	gps
+3	qid:99	 # 763357123975	gps
+3	qid:99	 # 693723888828	gps
+3	qid:99	 # 636926045827	gps
+2	qid:99	 # 753759097165	gps
+2	qid:99	 # 753759969844	gps
+2	qid:99	 # 753759053116	gps
+2	qid:99	 # 753759971687	gps
+2	qid:99	 # 636926026918	gps
+2	qid:99	 # 753759972257	gps
+2	qid:99	 # 753759097301	gps
+2	qid:99	 # 753759978921	gps
+2	qid:99	 # 753759980443	gps
+2	qid:99	 # 636926048316	gps
+2	qid:99	 # 753759967963	gps
+2	qid:99	 # 753759980016	gps
+2	qid:99	 # 753759978945	gps
+2	qid:99	 # 753759099305	gps
+1	qid:99	 # 753759099152	gps
+2	qid:99	 # 660685010406	gps
+1	qid:99	 # 753759970550	gps
+2	qid:99	 # 753759978518	gps
+2	qid:99	 # 753759091033	gps
+1	qid:99	 # 753759097158	gps
+2	qid:99	 # 753759970529	gps
+1	qid:99	 # 97278013894	gps
+1	qid:99	 # 19916004996	gps
+1	qid:99	 # 636926039840	gps

@@ -1,0 +1,75 @@
+<!-- External CSS for better maintainability -->
+<style>
+	/* General container styling */
+	.container {
+	  padding: 15px;
+	  font-family: Arial, sans-serif;
+	}
+  
+	/* Input field styling */
+	.search-box {
+	  width: 50%;
+	  padding: 8px;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	}
+  
+	/* Submit button styling */
+	.search-button {
+	  padding: 8px 12px;
+	  background-color: #28a745;
+	  color: white;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;
+	  margin-left: 10px;
+	}
+  
+	/* Styling for the results section */
+	.results {
+	  margin-top: 20px;
+	}
+  
+	/* Individual result container styling */
+	.result {
+	  padding: 10px;
+	  border: 1px solid #ddd;
+	  border-radius: 4px;
+	  margin-bottom: 15px;
+	  background-color: #f9f9f9;
+	}
+  
+	/* Styling for text within a result */
+	.result-text {
+	  color: #333;
+	}
+  
+	/* Separator styling */
+	.separator {
+	  border: none;
+	  border-bottom: 1px solid #ddd;
+	  margin: 10px 0;
+	}
+  </style>
+  
+  <!-- Updated HTML with improved structure and styling -->
+  <div class="container">
+	<input class="search-box" readonly type="text" name="q" value="${QUERY}" />
+	<input class="search-button" readonly type="submit" value="Search" />
+  
+	<div class="results">
+	  <!-- BEGIN_TEMPLATE: SEARCH_RESULTS -->
+	  <div class="result">
+		<div class="result-text">
+		  <p><strong>Name:</strong> ${NAME} | <strong>Manufacturer:</strong> ${MANUFACTURER}</p>
+		  <p>${DESCRIPTION}</p>
+		</div>
+	  </div>
+	  <!-- END_TEMPLATE: SEARCH_RESULTS -->
+  
+	  <!-- BEGIN_TEMPLATE: SEPARATOR -->
+	  <div class="separator"></div>
+	  <!-- END_TEMPLATE: SEPARATOR -->
+	</div>
+  </div>
+  
