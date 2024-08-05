@@ -59,7 +59,7 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/ShivaHariSonu/search-project.git
+   git clone https://github.com/leelasowmyajan/ecommerce-search.git
 ### How to run
 Follow these steps to get your development environment set up:
 1. Change to the project directory where docker-compose.yml is located:
