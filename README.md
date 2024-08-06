@@ -4,7 +4,7 @@
 <h2 align="center">Query Intelligence on E-Commerce Search</h2>
 
   <p align="center">
-    <a href="https://github.com/ShivaHariSonu/search-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/leelasowmyajan/ecommerce-search/tree/main/search"><strong>Explore the docs »</strong></a>
     <br />
     <p> <a href="https://drive.google.com/file/d/1oXwjWGjkRG8nBQHg1G1643Ad9gIkMyMt/view?usp=sharing">View Demo </a> </p>
   </p>
